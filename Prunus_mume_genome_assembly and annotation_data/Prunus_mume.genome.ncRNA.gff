@@ -1,0 +1,1146 @@
+Pm2	cmsearch	miRNA	22197646	22197805	41.95	-	.	ID=miRNA_003627;Target=RF00865 1 129;Threshold=25.00;type="Gene; miRNA;";Annotation=microRNA MIR169_5;
+Pm4	cmsearch	miRNA	17396382	17396480	67.8	-	.	ID=miRNA_003403;Target=RF00643 1 100;Threshold=25.00;type="Gene; miRNA;";Annotation=microRNA MIR171_1;
+Pm4	cmsearch	miRNA	17447551	17447655	46.22	-	.	ID=miRNA_003407;Target=RF00643 1 100;Threshold=25.00;type="Gene; miRNA;";Annotation=microRNA MIR171_1;
+Pm5	cmsearch	miRNA	20716259	20716367	63.21	-	.	ID=miRNA_000977;Target=RF00452 1 114;Threshold=55.00;type="Gene; miRNA;";Annotation=mir-172 microRNA precursor family;
+Pm6	cmsearch	miRNA	4751080	4751180	82.24	+	.	ID=miRNA_000998;Target=RF00714 1 101;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR535;
+Pm6	cmsearch	miRNA	4746688	4746788	73.52	+	.	ID=miRNA_001000;Target=RF00714 1 101;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR535;
+Pm2	cmsearch	miRNA	3501572	3501696	52.08	+	.	ID=miRNA_003480;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm4	cmsearch	miRNA	8178234	8178358	31.76	-	.	ID=miRNA_001071;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm3	cmsearch	miRNA	20674328	20674452	32.77	-	.	ID=miRNA_001112;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm3	cmsearch	miRNA	20674748	20674874	20.41	-	.	ID=miRNA_001115;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm4	cmsearch	miRNA	20771871	20771995	40.36	+	.	ID=miRNA_001157;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm4	cmsearch	miRNA	22020723	22020844	63.86	+	.	ID=miRNA_001138;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm4	cmsearch	miRNA	22021868	22021989	38.22	-	.	ID=miRNA_001143;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm1	cmsearch	miRNA	21268564	21268688	26.31	-	.	ID=miRNA_001201;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm6	cmsearch	miRNA	848912	849028	68.54	-	.	ID=miRNA_001284;Target=RF00647 1 110;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR164;
+Pm2	cmsearch	miRNA	14006475	14006579	30.23	-	.	ID=miRNA_001437;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm2	cmsearch	miRNA	15058967	15059073	86.56	-	.	ID=miRNA_001392;Target=RF00688 1 109;Threshold=60.00;type="Gene; miRNA;";Annotation=microRNA MIR394;
+Pm2	cmsearch	miRNA	15105991	15106079	42.29	-	.	ID=miRNA_001396;Target=RF00643 1 100;Threshold=25.00;type="Gene; miRNA;";Annotation=microRNA MIR171_1;
+Pm8	cmsearch	miRNA	11423066	11423190	22.74	+	.	ID=miRNA_001487;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm8	cmsearch	miRNA	11423696	11423820	26.44	+	.	ID=miRNA_001489;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm5	cmsearch	miRNA	13622666	13622747	24.59	+	.	ID=miRNA_001513;Target=RF00650 1 87;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-153;
+Pm1	cmsearch	miRNA	6906307	6906423	82.47	-	.	ID=miRNA_001543;Target=RF00452 1 114;Threshold=55.00;type="Gene; miRNA;";Annotation=mir-172 microRNA precursor family;
+Pm1	cmsearch	miRNA	6839169	6839294	52.62	+	.	ID=miRNA_001526;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	1174182	1174292	80.81	-	.	ID=miRNA_003532;Target=RF00689 1 122;Threshold=55.00;type="Gene; miRNA;";Annotation=microRNA MIR390;
+Pm5	cmsearch	miRNA	969123	969247	21.74	-	.	ID=miRNA_001679;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm3	cmsearch	miRNA	17662818	17662942	45.64	-	.	ID=miRNA_001722;Target=RF00695 1 110;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR398;
+Pm4	cmsearch	miRNA	16338415	16338502	31.64	+	.	ID=miRNA_004729;Target=RF00247 1 90;Threshold=29.00;type="Gene; miRNA;";Annotation=mir-160 microRNA precursor family;
+Pm5	cmsearch	miRNA	12753161	12753285	24.74	-	.	ID=miRNA_004758;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm5	cmsearch	miRNA	12752945	12753069	21.34	-	.	ID=miRNA_004759;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	5105430	5105554	66.22	+	.	ID=miRNA_004877;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	5105219	5105343	24.76	+	.	ID=miRNA_004880;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4882374	4882498	21.14	-	.	ID=miRNA_004886;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4882170	4882279	41.59	-	.	ID=miRNA_004885;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4738507	4738631	74.56	-	.	ID=miRNA_004896;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4725196	4725320	69.6	-	.	ID=miRNA_004899;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4712435	4712559	65.9	-	.	ID=miRNA_004900;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4712231	4712335	25.95	-	.	ID=miRNA_004901;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4689588	4689705	56.82	-	.	ID=miRNA_004902;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4679711	4679813	33.57	+	.	ID=miRNA_004903;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4679492	4679616	21.26	+	.	ID=miRNA_004904;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4599989	4600113	67.27	-	.	ID=miRNA_004909;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4599785	4599889	24.53	-	.	ID=miRNA_004911;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4595196	4595313	51.98	-	.	ID=miRNA_004913;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4455829	4455953	51.06	-	.	ID=miRNA_004871;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm2	cmsearch	miRNA	19159603	19159726	22.24	+	.	ID=miRNA_004921;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm2	cmsearch	miRNA	26922496	26922620	25.02	-	.	ID=miRNA_005059;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm8	cmsearch	miRNA	410235	410398	54.35	+	.	ID=miRNA_005075;Target=RF01043 1 170;Threshold=53.00;type="Gene; miRNA;";Annotation=microRNA MIR1023;
+Pm5	cmsearch	miRNA	25208150	25208305	77.62	-	.	ID=miRNA_005147;Target=RF00075 1 118;Threshold=44.00;type="Gene; miRNA;";Annotation=mir-166 microRNA precursor;
+Pm5	cmsearch	miRNA	25339042	25339138	55.75	+	.	ID=miRNA_005155;Target=RF01026 1 100;Threshold=30.00;type="Gene; miRNA;";Annotation=microRNA MIR828;
+Pm1	cmsearch	miRNA	22789442	22789546	22.12	+	.	ID=miRNA_005231;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm7	cmsearch	miRNA	13205227	13205351	36.4	+	.	ID=miRNA_005285;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm7	cmsearch	miRNA	12854813	12854909	66.51	+	.	ID=miRNA_005311;Target=RF00643 1 100;Threshold=25.00;type="Gene; miRNA;";Annotation=microRNA MIR171_1;
+Pm2	cmsearch	miRNA	21702721	21702815	21.98	+	.	ID=miRNA_007879;Target=RF00816 1 97;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-245;
+Pm7	cmsearch	miRNA	1007530	1007691	95.85	-	.	ID=miRNA_005507;Target=RF00677 1 133;Threshold=35.00;type="Gene; miRNA;";Annotation=microRNA MIR168;
+Pm2	cmsearch	miRNA	5644249	5644368	25.03	+	.	ID=miRNA_005647;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm2	cmsearch	miRNA	5643928	5644054	27.13	+	.	ID=miRNA_005651;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	4271736	4271922	74.81	-	.	ID=miRNA_005774;Target=RF00452 1 114;Threshold=55.00;type="Gene; miRNA;";Annotation=mir-172 microRNA precursor family;
+Pm5	cmsearch	miRNA	19393876	19393999	24.25	-	.	ID=miRNA_007975;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm5	cmsearch	miRNA	19393560	19393684	29.73	-	.	ID=miRNA_007981;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm5	cmsearch	miRNA	19184616	19184701	63.77	-	.	ID=miRNA_007984;Target=RF00247 1 90;Threshold=29.00;type="Gene; miRNA;";Annotation=mir-160 microRNA precursor family;
+Pm5	cmsearch	miRNA	18690047	18690177	67.18	-	.	ID=miRNA_007944;Target=RF00452 1 114;Threshold=55.00;type="Gene; miRNA;";Annotation=mir-172 microRNA precursor family;
+Pm1	cmsearch	miRNA	23437685	23437808	23.38	+	.	ID=miRNA_008039;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm3	cmsearch	miRNA	22204816	22204932	53.27	+	.	ID=miRNA_008143;Target=RF00695 1 110;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR398;
+Pm2	cmsearch	miRNA	36133042	36133136	51.28	+	.	ID=miRNA_008161;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm2	cmsearch	miRNA	36138449	36138551	80.55	+	.	ID=miRNA_008166;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm2	cmsearch	miRNA	36179451	36179545	51.28	+	.	ID=miRNA_008173;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm2	cmsearch	miRNA	36188539	36188641	80.63	+	.	ID=miRNA_008176;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm2	cmsearch	miRNA	36198947	36199061	70.34	+	.	ID=miRNA_008182;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm2	cmsearch	miRNA	36250704	36250790	24.89	+	.	ID=miRNA_008159;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm4	cmsearch	miRNA	23158925	23159069	23.68	-	.	ID=miRNA_008214;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm4	cmsearch	miRNA	23159269	23159394	57.92	+	.	ID=miRNA_008217;Target=RF00865 1 129;Threshold=25.00;type="Gene; miRNA;";Annotation=microRNA MIR169_5;
+Pm4	cmsearch	miRNA	23336311	23336411	56.51	-	.	ID=miRNA_008197;Target=RF00643 1 100;Threshold=25.00;type="Gene; miRNA;";Annotation=microRNA MIR171_1;
+Pm3	cmsearch	miRNA	5781776	5781864	69.04	+	.	ID=miRNA_008391;Target=RF00247 1 90;Threshold=29.00;type="Gene; miRNA;";Annotation=mir-160 microRNA precursor family;
+Pm2	cmsearch	miRNA	4199157	4199281	41.25	-	.	ID=miRNA_008455;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm2	cmsearch	miRNA	6222146	6222264	55	-	.	ID=miRNA_008527;Target=RF00648 1 118;Threshold=30.00;type="Gene; miRNA;";Annotation=microRNA MIR396;
+Pm2	cmsearch	miRNA	17848795	17848918	25.53	-	.	ID=miRNA_003759;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm2	cmsearch	miRNA	17499115	17499235	50.32	+	.	ID=miRNA_003769;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17496927	17497048	51.92	-	.	ID=miRNA_003776;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17482500	17482597	74.18	+	.	ID=miRNA_003783;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17482335	17482432	71.35	+	.	ID=miRNA_003784;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17482156	17482250	66.72	+	.	ID=miRNA_003799;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17479171	17479262	58.64	-	.	ID=miRNA_003811;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17464783	17464899	59.08	-	.	ID=miRNA_003815;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17449581	17449678	69.22	+	.	ID=miRNA_003822;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17449398	17449495	74.28	+	.	ID=miRNA_003821;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17445957	17446052	44.58	-	.	ID=miRNA_003835;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17433889	17434007	67.44	-	.	ID=miRNA_003838;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17428183	17428291	58.4	+	.	ID=miRNA_003844;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	17426988	17427109	69.11	-	.	ID=miRNA_003845;Target=RF00451 1 97;Threshold=39.80;type="Gene; miRNA;";Annotation=mir-395 microRNA precursor family;
+Pm2	cmsearch	miRNA	16754325	16754433	52.44	-	.	ID=miRNA_003753;Target=RF00695 1 110;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR398;
+Pm2	cmsearch	miRNA	12455626	12455709	62.78	-	.	ID=miRNA_008600;Target=RF00073 1 90;Threshold=30.00;type="Gene; miRNA;";Annotation=mir-156 microRNA precursor;
+Pm2	cmsearch	miRNA	12356890	12357013	20.4	-	.	ID=miRNA_008551;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm2	cmsearch	miRNA	11641778	11641902	31.92	-	.	ID=miRNA_008579;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm3	cmsearch	miRNA	6424321	6424690	35.32	+	.	ID=miRNA_008722;Target=RF00640 1 112;Threshold=35.00;type="Gene; miRNA;";Annotation=microRNA MIR167_1;
+Pm2	cmsearch	miRNA	32771226	32771339	71.97	+	.	ID=miRNA_008766;Target=RF00842 1 115;Threshold=55.00;type="Gene; miRNA;";Annotation=microRNA MIR403;
+Pm5	cmsearch	miRNA	18275719	18275913	121.23	-	.	ID=miRNA_012597;Target=RF00638 1 196;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR159;
+Pm5	cmsearch	miRNA	18274444	18274640	109.15	+	.	ID=miRNA_012600;Target=RF00638 1 196;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR159;
+Pm5	cmsearch	miRNA	18269057	18269252	123.71	-	.	ID=miRNA_012604;Target=RF00638 1 196;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR159;
+Pm5	cmsearch	miRNA	17938672	17938768	25.98	+	.	ID=miRNA_012592;Target=RF00816 1 97;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-245;
+Pm5	cmsearch	miRNA	17540674	17540817	85.66	-	.	ID=miRNA_012609;Target=RF00075 1 118;Threshold=44.00;type="Gene; miRNA;";Annotation=mir-166 microRNA precursor;
+Pm5	cmsearch	miRNA	17422173	17422292	20.46	+	.	ID=miRNA_012616;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm3	cmsearch	miRNA	3621539	3621638	43.35	-	.	ID=miRNA_008882;Target=RF00990 1 96;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA mir-552;
+Pm2	cmsearch	miRNA	3109683	3109807	32.42	-	.	ID=miRNA_012667;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm4	cmsearch	miRNA	13435279	13435403	36.5	-	.	ID=miRNA_012825;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm5	cmsearch	miRNA	23037950	23038177	122.25	-	.	ID=miRNA_012831;Target=RF00638 1 196;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR159;
+Pm2	cmsearch	miRNA	1708288	1708409	68.3	+	.	ID=miRNA_003903;Target=RF00688 1 109;Threshold=60.00;type="Gene; miRNA;";Annotation=microRNA MIR394;
+Pm7	cmsearch	miRNA	16082702	16082890	116.42	-	.	ID=miRNA_012959;Target=RF00638 1 196;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR159;
+Pm7	cmsearch	miRNA	16448045	16448283	73	-	.	ID=miRNA_012967;Target=RF00638 1 196;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR159;
+Pm2	cmsearch	miRNA	39544681	39544773	62.61	-	.	ID=miRNA_003937;Target=RF00640 1 112;Threshold=35.00;type="Gene; miRNA;";Annotation=microRNA MIR167_1;
+Pm4	cmsearch	miRNA	5026019	5026160	32.46	-	.	ID=miRNA_013137;Target=RF00445 1 117;Threshold=32.00;type="Gene; miRNA;";Annotation=mir-399 microRNA precursor family;
+Pm3	cmsearch	miRNA	7494053	7494177	27.72	+	.	ID=miRNA_013271;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm5	cmsearch	miRNA	22798554	22798695	42.97	+	.	ID=miRNA_013302;Target=RF00865 1 129;Threshold=25.00;type="Gene; miRNA;";Annotation=microRNA MIR169_5;
+Pm8	cmsearch	miRNA	16020702	16020806	64.83	+	.	ID=miRNA_003992;Target=RF00643 1 100;Threshold=25.00;type="Gene; miRNA;";Annotation=microRNA MIR171_1;
+Pm8	cmsearch	miRNA	16042640	16042753	81.47	+	.	ID=miRNA_003996;Target=RF00648 1 118;Threshold=30.00;type="Gene; miRNA;";Annotation=microRNA MIR396;
+Pm8	cmsearch	miRNA	16047680	16047809	77.42	-	.	ID=miRNA_004001;Target=RF00648 1 118;Threshold=30.00;type="Gene; miRNA;";Annotation=microRNA MIR396;
+Pm8	cmsearch	miRNA	14076428	14076514	34.4	-	.	ID=miRNA_013463;Target=RF00073 1 90;Threshold=30.00;type="Gene; miRNA;";Annotation=mir-156 microRNA precursor;
+Pm7	cmsearch	miRNA	9613217	9613405	135.04	+	.	ID=miRNA_013502;Target=RF00638 1 196;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR159;
+Pm1	cmsearch	miRNA	14885865	14886083	54.02	+	.	ID=miRNA_013534;Target=RF01043 1 170;Threshold=53.00;type="Gene; miRNA;";Annotation=microRNA MIR1023;
+Pm4	cmsearch	miRNA	1280961	1281085	29.59	-	.	ID=miRNA_015656;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm6	cmsearch	miRNA	5111469	5111593	23.65	-	.	ID=miRNA_015740;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm2	cmsearch	miRNA	37294941	37295043	80.55	+	.	ID=miRNA_015848;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm2	cmsearch	miRNA	37288225	37288332	47.21	+	.	ID=miRNA_015830;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm8	cmsearch	miRNA	9437538	9437668	48.11	-	.	ID=miRNA_015928;Target=RF01005 1 172;Threshold=35.00;type="Gene; miRNA;";Annotation=microRNA MIR530;
+Pm8	cmsearch	miRNA	13298814	13298938	29.13	+	.	ID=miRNA_015957;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm8	cmsearch	miRNA	12963459	12963547	31.15	-	.	ID=miRNA_015964;Target=RF00073 1 90;Threshold=30.00;type="Gene; miRNA;";Annotation=mir-156 microRNA precursor;
+Pm2	cmsearch	miRNA	41049474	41049567	54.4	-	.	ID=miRNA_016039;Target=RF00075 1 118;Threshold=44.00;type="Gene; miRNA;";Annotation=mir-166 microRNA precursor;
+Pm4	cmsearch	miRNA	3820065	3820189	33.02	+	.	ID=miRNA_016087;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm5	cmsearch	miRNA	1453247	1453366	30.21	+	.	ID=miRNA_016098;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+Pm4	cmsearch	miRNA	16967192	16967312	23.08	-	.	ID=miRNA_004110;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm4	cmsearch	miRNA	16968244	16968352	37.47	-	.	ID=miRNA_004111;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm4	cmsearch	miRNA	17060859	17060983	33.71	+	.	ID=miRNA_004116;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	25773099	25773223	24.75	+	.	ID=miRNA_016159;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	25426418	25426507	49.84	+	.	ID=miRNA_016144;Target=RF00640 1 112;Threshold=35.00;type="Gene; miRNA;";Annotation=microRNA MIR167_1;
+Pm1	cmsearch	miRNA	6070782	6070906	50.1	-	.	ID=miRNA_016168;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	6027053	6027177	46.47	+	.	ID=miRNA_016191;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	5718538	5718662	50.72	+	.	ID=miRNA_016180;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	5697667	5697791	50.72	+	.	ID=miRNA_016183;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	5697247	5697371	33.73	+	.	ID=miRNA_016185;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm2	cmsearch	miRNA	28042407	28042531	29.18	+	.	ID=miRNA_016458;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm7	cmsearch	miRNA	10189036	10189113	42.74	-	.	ID=miRNA_016477;Target=RF00778 1 86;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR473;
+Pm7	cmsearch	miRNA	10189177	10189301	26.5	-	.	ID=miRNA_016478;Target=RF00778 1 86;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR473;
+Pm5	cmsearch	miRNA	5298323	5298447	39.35	+	.	ID=miRNA_016497;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm4	cmsearch	miRNA	278123	278249	93.52	+	.	ID=miRNA_016555;Target=RF00690 1 131;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR408;
+Pm5	cmsearch	miRNA	10566678	10566802	23.61	+	.	ID=miRNA_016596;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm5	cmsearch	miRNA	10566468	10566592	23.53	+	.	ID=miRNA_016597;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm5	cmsearch	miRNA	10565943	10566068	21.21	+	.	ID=miRNA_016598;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm4	cmsearch	miRNA	2527475	2527567	37.16	+	.	ID=miRNA_004196;Target=RF00647 1 110;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR164;
+Pm7	cmsearch	miRNA	14645356	14645470	43.28	-	.	ID=miRNA_016849;Target=RF00445 1 117;Threshold=32.00;type="Gene; miRNA;";Annotation=mir-399 microRNA precursor family;
+Pm7	cmsearch	miRNA	14767139	14767263	37.9	+	.	ID=miRNA_016850;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm3	cmsearch	miRNA	2832436	2832551	60.32	+	.	ID=miRNA_004371;Target=RF00445 1 117;Threshold=32.00;type="Gene; miRNA;";Annotation=mir-399 microRNA precursor family;
+Pm3	cmsearch	miRNA	2838070	2838200	64.36	+	.	ID=miRNA_004377;Target=RF00445 1 117;Threshold=32.00;type="Gene; miRNA;";Annotation=mir-399 microRNA precursor family;
+Pm3	cmsearch	miRNA	2839545	2839656	60.61	-	.	ID=miRNA_004382;Target=RF00445 1 117;Threshold=32.00;type="Gene; miRNA;";Annotation=mir-399 microRNA precursor family;
+Pm3	cmsearch	miRNA	2841487	2841611	44.91	+	.	ID=miRNA_004383;Target=RF00445 1 117;Threshold=32.00;type="Gene; miRNA;";Annotation=mir-399 microRNA precursor family;
+Pm3	cmsearch	miRNA	2843957	2844098	40.18	-	.	ID=miRNA_004386;Target=RF00445 1 117;Threshold=32.00;type="Gene; miRNA;";Annotation=mir-399 microRNA precursor family;
+Pm5	cmsearch	miRNA	302128	302212	48.57	+	.	ID=miRNA_017201;Target=RF00990 1 96;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA mir-552;
+Pm2	cmsearch	miRNA	518736	518860	23.74	+	.	ID=miRNA_004331;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm2	cmsearch	miRNA	734043	734166	22.15	-	.	ID=miRNA_004341;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm2	cmsearch	miRNA	734672	734796	23.94	-	.	ID=miRNA_004344;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm3	cmsearch	miRNA	2532745	2532869	21.98	+	.	ID=miRNA_004487;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm6	cmsearch	miRNA	1979671	1979797	69.62	-	.	ID=miRNA_017567;Target=RF00640 1 112;Threshold=35.00;type="Gene; miRNA;";Annotation=microRNA MIR167_1;
+Pm6	cmsearch	miRNA	1977425	1977517	56.93	-	.	ID=miRNA_017571;Target=RF00640 1 112;Threshold=35.00;type="Gene; miRNA;";Annotation=microRNA MIR167_1;
+Pm6	cmsearch	miRNA	1767760	1767853	54.77	-	.	ID=miRNA_017581;Target=RF00075 1 118;Threshold=44.00;type="Gene; miRNA;";Annotation=mir-166 microRNA precursor;
+Pm7	cmsearch	miRNA	11282040	11282193	82.81	+	.	ID=miRNA_017650;Target=RF00075 1 118;Threshold=44.00;type="Gene; miRNA;";Annotation=mir-166 microRNA precursor;
+Pm2	cmsearch	miRNA	11538547	11538634	76.58	+	.	ID=miRNA_017723;Target=RF00073 1 90;Threshold=30.00;type="Gene; miRNA;";Annotation=mir-156 microRNA precursor;
+Pm7	cmsearch	miRNA	6406995	6407119	52.08	+	.	ID=miRNA_004458;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm6	cmsearch	miRNA	8990499	8990623	34.36	-	.	ID=miRNA_017854;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm3	cmsearch	miRNA	10582209	10582341	36.22	-	.	ID=miRNA_017931;Target=RF00865 1 129;Threshold=25.00;type="Gene; miRNA;";Annotation=microRNA MIR169_5;
+Pm1	cmsearch	miRNA	24453328	24453445	47.16	+	.	ID=miRNA_017996;Target=RF00647 1 110;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR164;
+Pm1	cmsearch	miRNA	22293591	22293718	20.85	+	.	ID=miRNA_001801;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm1	cmsearch	miRNA	1387306	1387499	139.77	-	.	ID=miRNA_018118;Target=RF00638 1 196;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR159;
+Pm8	cmsearch	miRNA	16662353	16662435	66.57	+	.	ID=miRNA_019337;Target=RF00073 1 90;Threshold=30.00;type="Gene; miRNA;";Annotation=mir-156 microRNA precursor;
+Pm8	cmsearch	miRNA	16672782	16672870	63.04	+	.	ID=miRNA_019339;Target=RF00073 1 90;Threshold=30.00;type="Gene; miRNA;";Annotation=mir-156 microRNA precursor;
+Pm2	cmsearch	miRNA	4974860	4974984	70.24	+	.	ID=miRNA_001930;Target=RF01043 1 170;Threshold=53.00;type="Gene; miRNA;";Annotation=microRNA MIR1023;
+Pm2	cmsearch	miRNA	4974655	4974767	58.88	-	.	ID=miRNA_001927;Target=RF01043 1 170;Threshold=53.00;type="Gene; miRNA;";Annotation=microRNA MIR1023;
+Pm2	cmsearch	miRNA	4974523	4974654	67.17	-	.	ID=miRNA_001925;Target=RF01043 1 170;Threshold=53.00;type="Gene; miRNA;";Annotation=microRNA MIR1023;
+Pm1	cmsearch	miRNA	2946934	2947018	34.26	+	.	ID=miRNA_018372;Target=RF00073 1 90;Threshold=30.00;type="Gene; miRNA;";Annotation=mir-156 microRNA precursor;
+Pm6	cmsearch	miRNA	19758893	19759016	31.13	+	.	ID=miRNA_001959;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm6	cmsearch	miRNA	19759418	19759542	38.58	+	.	ID=miRNA_001964;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+Pm7	blastn	rRNA	2452206	2452283	1.00E-27	-	.	ID=rRNA_5.8S_0024;Target=AJ232900 269 346;Annotation="[Arabidopsis thaliana] 5.8S rRNA gene and internal transcribed spacers 1 and 2 (ITS1, ITS2) "
+Pm7	blastn	rRNA	2452428	2453534	0	-	.	ID=rRNA_18S_0025;Target=X16077 788 1901;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm7	blastn	rRNA	2453570	2454178	0	-	.	ID=rRNA_18S_0026;Target=X16077 84 691;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm2	blastn	rRNA	34290903	34291264	1.00E-72	-	.	ID=rRNA_18S_0027;Target=X16077 1505 1864;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm6	blastn	rRNA	12746311	12746399	7.00E-10	+	.	ID=rRNA_18S_0028;Target=X16077 188 276;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm6	blastn	rRNA	12751336	12751403	6.00E-07	+	.	ID=rRNA_18S_0029;Target=X16077 188 255;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm6	blastn	rRNA	12741473	12741526	1.00E-05	+	.	ID=rRNA_18S_0030;Target=X16077 103 156;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm4	blastn	rRNA	17376379	17376564	2.00E-80	-	.	ID=rRNA_28S_0031;Target=AH001750 5 190;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+Pm7	blastn	rRNA	2451050	2451203	3.00E-42	-	.	ID=rRNA_28S_0032;Target=AH001750 15 168;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+Pm1	blastn	rRNA	14865129	14865253	8.00E-47	-	.	ID=rRNA_5S_0033;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14865818	14865942	8.00E-47	-	.	ID=rRNA_5S_0034;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14867885	14868009	8.00E-47	-	.	ID=rRNA_5S_0035;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14868574	14868698	8.00E-47	-	.	ID=rRNA_5S_0036;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14870641	14870765	8.00E-47	-	.	ID=rRNA_5S_0037;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14871330	14871454	8.00E-47	-	.	ID=rRNA_5S_0038;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14863255	14863379	2.00E-44	-	.	ID=rRNA_5S_0039;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14866507	14866631	2.00E-44	-	.	ID=rRNA_5S_0040;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14867196	14867320	2.00E-44	-	.	ID=rRNA_5S_0041;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14869263	14869387	2.00E-44	-	.	ID=rRNA_5S_0042;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14869952	14870076	2.00E-44	-	.	ID=rRNA_5S_0043;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14862566	14862690	3.00E-37	-	.	ID=rRNA_5S_0044;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14861157	14861279	4.00E-36	-	.	ID=rRNA_5S_0045;Target=AJ307354 39 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14861861	14861981	2.00E-32	-	.	ID=rRNA_5S_0046;Target=AJ307354 41 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14860453	14860575	3.00E-31	-	.	ID=rRNA_5S_0047;Target=AJ307354 39 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14863925	14863995	2.00E-26	-	.	ID=rRNA_5S_0048;Target=AJ307354 91 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14441759	14441793	2.00E-06	+	.	ID=rRNA_18S_0050;Target=X16077 1593 1627;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm3	blastn	rRNA	18255260	18255317	5.00E-23	+	.	ID=rRNA_28S_0051;Target=AH001750 539 596;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+Pm3	blastn	rRNA	18255091	18255172	1.00E-20	+	.	ID=rRNA_28S_0052;Target=AH001750 400 480;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+Pm1	blastn	rRNA	7138675	7138764	1.00E-27	-	.	ID=rRNA_5.8S_0053;Target=AJ232900 274 363;Annotation="[Arabidopsis thaliana] 5.8S rRNA gene and internal transcribed spacers 1 and 2 (ITS1, ITS2) "
+Pm8	blastn	rRNA	7428564	7428773	2.00E-53	+	.	ID=rRNA_18S_0054;Target=X16077 832 1040;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm1	blastn	rRNA	7138998	7139199	4.00E-51	-	.	ID=rRNA_18S_0055;Target=X16077 1700 1901;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm2	blastn	rRNA	28316629	28316676	6.00E-07	-	.	ID=rRNA_18S_0056;Target=X16077 878 925;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm1	blastn	rRNA	12622195	12622319	1.00E-39	+	.	ID=rRNA_5S_0057;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	12622897	12623021	1.00E-39	+	.	ID=rRNA_5S_0058;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	12618719	12618843	3.00E-37	+	.	ID=rRNA_5S_0059;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	12619415	12619535	3.00E-37	+	.	ID=rRNA_5S_0060;Target=AJ307354 37 157;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	12620108	12620232	3.00E-37	+	.	ID=rRNA_5S_0061;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	12617810	12617928	4.00E-36	+	.	ID=rRNA_5S_0062;Target=AJ307354 43 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	12624284	12624408	7.00E-35	+	.	ID=rRNA_5S_0063;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	12621506	12621622	4.00E-30	+	.	ID=rRNA_5S_0064;Target=AJ307354 41 157;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	12618015	12618138	1.00E-27	+	.	ID=rRNA_5S_0065;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	12623590	12623714	1.00E-27	+	.	ID=rRNA_5S_0066;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	12620806	12620925	1.00E-24	+	.	ID=rRNA_5S_0067;Target=AJ307354 42 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	12624978	12625030	5.00E-11	+	.	ID=rRNA_5S_0068;Target=AJ307354 37 89;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm6	blastn	rRNA	5777383	5778073	0	+	.	ID=rRNA_18S_0069;Target=X16077 546 1236;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm6	blastn	rRNA	5777081	5777381	1.00E-108	+	.	ID=rRNA_18S_0070;Target=X16077 224 522;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm6	blastn	rRNA	5251782	5251859	3.00E-12	+	.	ID=rRNA_18S_0071;Target=X16077 1168 1249;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm8	blastn	rRNA	326701	327527	0	-	.	ID=rRNA_18S_0072;Target=X16077 180 1005;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm3	blastn	rRNA	9608918	9609040	5.00E-54	-	.	ID=rRNA_18S_0073;Target=X16077 639 761;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm1	blastn	rRNA	9734247	9734290	4.00E-14	-	.	ID=rRNA_18S_0074;Target=X16077 981 1024;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm2	blastn	rRNA	18466184	18466303	2.00E-29	-	.	ID=rRNA_5S_0075;Target=AJ307354 40 159;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm2	blastn	rRNA	18483358	18483431	8.00E-07	-	.	ID=rRNA_5S_0076;Target=AJ307354 63 136;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm3	blastn	rRNA	18938653	18938815	6.00E-38	-	.	ID=rRNA_18S_0078;Target=X16077 1529 1689;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm5	blastn	rRNA	6667265	6667312	3.00E-12	-	.	ID=rRNA_5.8S_0079;Target=AJ232900 289 336;Annotation="[Arabidopsis thaliana] 5.8S rRNA gene and internal transcribed spacers 1 and 2 (ITS1, ITS2) "
+Pm6	blastn	rRNA	15426787	15426907	7.00E-35	+	.	ID=rRNA_5S_0080;Target=AJ307354 37 157;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm6	blastn	rRNA	15414911	15415033	6.00E-29	+	.	ID=rRNA_5S_0081;Target=AJ307354 37 159;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm6	blastn	rRNA	15415193	15415277	6.00E-26	+	.	ID=rRNA_5S_0082;Target=AJ307354 74 159;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm6	blastn	rRNA	15416306	15416428	4.00E-24	+	.	ID=rRNA_5S_0083;Target=AJ307354 37 159;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm1	blastn	rRNA	14881864	14882534	0	+	.	ID=rRNA_18S_0084;Target=X16077 83 752;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm8	blastn	rRNA	2742564	2742596	2.00E-07	+	.	ID=rRNA_18S_0085;Target=X16077 680 712;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm2	blastn	rRNA	10251990	10252082	3.00E-15	-	.	ID=rRNA_28S_0086;Target=AH001750 97 189;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+Pm6	blastn	rRNA	14955287	14955411	2.00E-44	-	.	ID=rRNA_5S_0087;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm6	blastn	rRNA	14968884	14968981	1.00E-30	+	.	ID=rRNA_5S_0088;Target=AJ307354 64 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm6	blastn	rRNA	14970498	14970581	2.00E-22	+	.	ID=rRNA_5S_0089;Target=AJ307354 76 159;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm6	blastn	rRNA	14969736	14969833	5.00E-14	+	.	ID=rRNA_5S_0090;Target=AJ307354 64 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm6	blastn	rRNA	14970583	14970619	5.00E-11	+	.	ID=rRNA_5S_0091;Target=AJ307354 125 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm2	blastn	rRNA	31459054	31459169	2.00E-29	+	.	ID=rRNA_5S_0092;Target=AJ307354 38 153;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm2	blastn	rRNA	31474561	31474658	1.00E-23	+	.	ID=rRNA_5S_0093;Target=AJ307354 64 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm2	blastn	rRNA	31474995	31475066	8.00E-13	+	.	ID=rRNA_5S_0094;Target=AJ307354 64 135;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm2	blastn	rRNA	31459530	31459607	1.00E-11	+	.	ID=rRNA_5S_0095;Target=AJ307354 39 116;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm2	blastn	rRNA	31460777	31460819	8.00E-10	+	.	ID=rRNA_5S_0096;Target=AJ307354 118 160;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm6	blastn	rRNA	5005088	5005128	3.00E-15	-	.	ID=rRNA_5.8S_0099;Target=AJ232900 299 339;Annotation="[Arabidopsis thaliana] 5.8S rRNA gene and internal transcribed spacers 1 and 2 (ITS1, ITS2) "
+Pm3	blastn	rRNA	200308	201029	0	-	.	ID=rRNA_18S_0104;Target=X16077 1168 1893;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm3	blastn	rRNA	201541	202035	0	-	.	ID=rRNA_18S_0105;Target=X16077 82 574;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm3	blastn	rRNA	201034	201286	1.00E-110	-	.	ID=rRNA_18S_0106;Target=X16077 880 1131;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm3	blastn	rRNA	201284	201515	3.00E-83	-	.	ID=rRNA_18S_0107;Target=X16077 606 837;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm8	blastn	rRNA	14402965	14403011	7.00E-16	-	.	ID=rRNA_18S_0108;Target=X16077 585 631;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm2	blastn	rRNA	20661644	20661697	3.00E-09	+	.	ID=rRNA_5S_0112;Target=AJ307354 105 158;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+Pm2	blastn	rRNA	26520836	26520945	1.00E-27	-	.	ID=rRNA_5.8S_0113;Target=AJ232900 308 417;Annotation="[Arabidopsis thaliana] 5.8S rRNA gene and internal transcribed spacers 1 and 2 (ITS1, ITS2) "
+Pm2	blastn	rRNA	26522592	26522734	2.00E-23	-	.	ID=rRNA_5.8S_0114;Target=AJ232900 275 417;Annotation="[Arabidopsis thaliana] 5.8S rRNA gene and internal transcribed spacers 1 and 2 (ITS1, ITS2) "
+Pm2	blastn	rRNA	26522966	26524066	0	-	.	ID=rRNA_18S_0115;Target=X16077 803 1901;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm2	blastn	rRNA	26521350	26521476	8.00E-28	-	.	ID=rRNA_18S_0116;Target=X16077 1623 1749;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm5	blastn	rRNA	9121975	9122142	4.00E-45	+	.	ID=rRNA_18S_0118;Target=X16077 1527 1692;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm4	blastn	rRNA	10712156	10712207	6.00E-07	+	.	ID=rRNA_18S_0120;Target=X16077 1809 1860;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+Pm4	cmsearch	snRNA	17557652	17557863	100.71	+	.	ID=snRNA_001111;Target=RF00012 1 211;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U3;
+Pm4	cmsearch	snRNA	17708768	17708850	74.85	-	.	ID=snRNA_001114;Target=RF01178 1 82;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR77Y;
+Pm4	cmsearch	snRNA	17708880	17709025	108.34	-	.	ID=snRNA_001117;Target=RF01292 1 149;Threshold=60.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR2/U65;
+Pm4	cmsearch	snRNA	17709188	17709261	38.57	-	.	ID=snRNA_001119;Target=RF01300 1 73;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U49;
+Pm6	cmsearch	snRNA	4201224	4201385	140.2	-	.	ID=snRNA_001090;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm6	cmsearch	snRNA	4031746	4031833	67.87	-	.	ID=snRNA_001084;Target=RF00359 1 88;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z102/R77;
+Pm6	cmsearch	snRNA	4031508	4031593	88.25	-	.	ID=snRNA_001086;Target=RF00359 1 88;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z102/R77;
+Pm6	cmsearch	snRNA	3994084	3994244	144.06	+	.	ID=snRNA_001089;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm7	cmsearch	snRNA	13451516	13451634	92.56	-	.	ID=snRNA_003397;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	20697038	20697189	87.4	-	.	ID=snRNA_001125;Target=RF00015 1 138;Threshold=41.00;type="Gene; snRNA; splicing;";Annotation=U4 spliceosomal RNA;
+Pm2	cmsearch	snRNA	3736258	3736353	68.61	-	.	ID=snRNA_001170;Target=RF01206 1 93;Threshold=20.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR109;
+Pm3	cmsearch	snRNA	20672093	20672186	66.9	+	.	ID=snRNA_001140;Target=RF00055 1 85;Threshold=24.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD96 family;
+Pm3	cmsearch	snRNA	20841051	20841138	74.01	-	.	ID=snRNA_001143;Target=RF01206 1 93;Threshold=20.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR109;
+Pm4	cmsearch	snRNA	20990571	20990667	90.96	+	.	ID=snRNA_001156;Target=RF00345 1 93;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR1;
+Pm4	cmsearch	snRNA	21552788	21552873	69.34	+	.	ID=snRNA_001145;Target=RF00200 1 84;Threshold=32.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z199;
+Pm4	cmsearch	snRNA	21552944	21553019	27.89	+	.	ID=snRNA_001148;Target=RF00093 1 70;Threshold=25.20;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD18;
+Pm4	cmsearch	snRNA	21553082	21553170	34.36	+	.	ID=snRNA_001151;Target=RF00206 1 81;Threshold=34.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U54;
+Pm4	cmsearch	snRNA	21553225	21553319	85.3	+	.	ID=snRNA_001152;Target=RF00267 1 94;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R64/Z200 family;
+Pm5	cmsearch	snRNA	10258583	10258685	111.12	+	.	ID=snRNA_001158;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm5	cmsearch	snRNA	10259922	10260026	106.51	+	.	ID=snRNA_001159;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm5	cmsearch	snRNA	10262321	10262423	111.12	+	.	ID=snRNA_001160;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm5	cmsearch	snRNA	10265424	10265526	112.15	+	.	ID=snRNA_001161;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm5	cmsearch	snRNA	10276057	10276159	101.58	+	.	ID=snRNA_001162;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm5	cmsearch	snRNA	10284484	10284586	105.2	+	.	ID=snRNA_001163;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm5	cmsearch	snRNA	10307479	10307581	111.12	-	.	ID=snRNA_001165;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm5	cmsearch	snRNA	10309462	10309564	111.12	-	.	ID=snRNA_001167;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm5	cmsearch	snRNA	10377233	10377335	107.1	-	.	ID=snRNA_001157;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm1	cmsearch	snRNA	20288733	20288823	84.64	+	.	ID=snRNA_001173;Target=RF01286 1 94;Threshold=42.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR26;
+Pm1	cmsearch	snRNA	20288866	20288955	69.29	+	.	ID=snRNA_001176;Target=RF01287 1 95;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR27;
+Pm6	cmsearch	snRNA	14198491	14198597	52.18	+	.	ID=snRNA_001196;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm2	cmsearch	snRNA	15394578	15394686	75.94	+	.	ID=snRNA_001200;Target=RF00304 1 108;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z279/snoR105/snoR108;
+Pm2	cmsearch	snRNA	15417513	15417601	62.35	-	.	ID=snRNA_001203;Target=RF00328 1 93;Threshold=25.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z161/Z228;
+Pm2	cmsearch	snRNA	15673769	15673858	53.22	+	.	ID=snRNA_001204;Target=RF01193 1 91;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR20a;
+Pm5	cmsearch	snRNA	5759573	5759679	44.4	-	.	ID=snRNA_001208;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm8	cmsearch	snRNA	10391720	10391805	34.18	+	.	ID=snRNA_001218;Target=RF00067 1 142;Threshold=25.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD15;
+Pm1	cmsearch	snRNA	7318306	7318503	142.6	-	.	ID=snRNA_001223;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm1	cmsearch	snRNA	7295480	7295665	82.43	-	.	ID=snRNA_001224;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm7	cmsearch	snRNA	725354	725416	55.2	+	.	ID=snRNA_001225;Target=RF01155 1 66;Threshold=52.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR101;
+Pm7	cmsearch	snRNA	725491	725553	72.29	+	.	ID=snRNA_001226;Target=RF01155 1 66;Threshold=52.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR101;
+Pm7	cmsearch	snRNA	725637	725699	66.8	+	.	ID=snRNA_001228;Target=RF01155 1 66;Threshold=52.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR101;
+Pm6	cmsearch	snRNA	11182089	11182301	114.05	-	.	ID=snRNA_001239;Target=RF00012 1 211;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U3;
+Pm6	cmsearch	snRNA	11181166	11181378	115.95	-	.	ID=snRNA_001241;Target=RF00012 1 211;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U3;
+Pm6	cmsearch	snRNA	11151694	11151780	66.91	-	.	ID=snRNA_001243;Target=RF01283 1 86;Threshold=42.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U30;
+Pm6	cmsearch	snRNA	5797659	5797809	90.13	-	.	ID=snRNA_001274;Target=RF00015 1 138;Threshold=41.00;type="Gene; snRNA; splicing;";Annotation=U4 spliceosomal RNA;
+Pm6	cmsearch	snRNA	5796431	5796626	154.29	-	.	ID=snRNA_001275;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm6	cmsearch	snRNA	5794614	5794759	68.45	+	.	ID=snRNA_001276;Target=RF00015 1 138;Threshold=41.00;type="Gene; snRNA; splicing;";Annotation=U4 spliceosomal RNA;
+Pm6	cmsearch	snRNA	5792292	5792480	58.67	-	.	ID=snRNA_001277;Target=RF00015 1 138;Threshold=41.00;type="Gene; snRNA; splicing;";Annotation=U4 spliceosomal RNA;
+Pm6	cmsearch	snRNA	5763866	5764019	85.19	-	.	ID=snRNA_001281;Target=RF00015 1 138;Threshold=41.00;type="Gene; snRNA; splicing;";Annotation=U4 spliceosomal RNA;
+Pm6	cmsearch	snRNA	5762182	5762377	155.66	-	.	ID=snRNA_001282;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm6	cmsearch	snRNA	5753967	5754158	123.54	-	.	ID=snRNA_001285;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm6	cmsearch	snRNA	5735299	5735452	83.52	-	.	ID=snRNA_001286;Target=RF00015 1 138;Threshold=41.00;type="Gene; snRNA; splicing;";Annotation=U4 spliceosomal RNA;
+Pm6	cmsearch	snRNA	5733114	5733267	85.19	-	.	ID=snRNA_001287;Target=RF00015 1 138;Threshold=41.00;type="Gene; snRNA; splicing;";Annotation=U4 spliceosomal RNA;
+Pm6	cmsearch	snRNA	5731488	5731648	137.44	-	.	ID=snRNA_001288;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm4	cmsearch	snRNA	8904177	8904271	61.81	+	.	ID=snRNA_001305;Target=RF00356 1 98;Threshold=45.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R32/R81/Z41;
+Pm2	cmsearch	snRNA	20025623	20025818	150.36	-	.	ID=snRNA_001295;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	20013619	20013737	88.93	+	.	ID=snRNA_001296;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm4	cmsearch	snRNA	7686058	7686160	111.4	-	.	ID=snRNA_001298;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm1	cmsearch	snRNA	5109141	5109251	50.22	-	.	ID=snRNA_001306;Target=RF01236 1 144;Threshold=22.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA U19;
+Pm1	cmsearch	snRNA	4782940	4783017	73.98	-	.	ID=snRNA_001308;Target=RF01281 1 81;Threshold=62.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR35;
+Pm6	cmsearch	snRNA	6965145	6965276	53.78	+	.	ID=snRNA_001323;Target=RF00548 1 134;Threshold=39.00;type="Gene; snRNA; splicing;";Annotation=U11 spliceosomal RNA;
+Pm6	cmsearch	snRNA	6801535	6801636	66.82	-	.	ID=snRNA_001326;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm8	cmsearch	snRNA	4500264	4500474	111.23	+	.	ID=snRNA_001329;Target=RF00012 1 211;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U3;
+Pm3	cmsearch	snRNA	9803597	9803698	28.54	-	.	ID=snRNA_001336;Target=RF00133 1 85;Threshold=26.40;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z195/SNORD33/SNORD32 family;
+Pm3	cmsearch	snRNA	9803794	9803880	66.06	-	.	ID=snRNA_001337;Target=RF01285 1 88;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U31b;
+Pm2	cmsearch	snRNA	32268754	32268884	53.53	-	.	ID=snRNA_001350;Target=RF01227 1 129;Threshold=20.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR83;
+Pm1	cmsearch	snRNA	13303395	13303501	50.81	+	.	ID=snRNA_001352;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm7	cmsearch	snRNA	2396102	2396207	37.63	+	.	ID=snRNA_001384;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm7	cmsearch	snRNA	3801803	3801933	90.74	+	.	ID=snRNA_001382;Target=RF00619 1 126;Threshold=50.00;type="Gene; snRNA; splicing;";Annotation=U6atac minor spliceosomal RNA;
+Pm1	cmsearch	snRNA	9967855	9967941	37.42	-	.	ID=snRNA_001366;Target=RF00067 1 142;Threshold=25.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD15;
+Pm5	cmsearch	snRNA	14867949	14868067	88.94	+	.	ID=snRNA_001405;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	14864886	14865004	88.94	+	.	ID=snRNA_001406;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	14862612	14862730	88.94	+	.	ID=snRNA_001407;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	14860338	14860456	88.94	+	.	ID=snRNA_001408;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	14858213	14858331	83.82	+	.	ID=snRNA_001409;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	14854519	14854637	85.66	+	.	ID=snRNA_001410;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	14852556	14852674	83.36	+	.	ID=snRNA_001411;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	14851619	14851738	88.72	+	.	ID=snRNA_001412;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	14736413	14736519	42.43	+	.	ID=snRNA_001413;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm7	cmsearch	snRNA	5403365	5403448	67.87	-	.	ID=snRNA_001389;Target=RF00160 1 87;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z159/U59;
+Pm7	cmsearch	snRNA	5403712	5403797	59.2	-	.	ID=snRNA_001390;Target=RF00160 1 87;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z159/U59;
+Pm1	cmsearch	snRNA	3370603	3370714	64.02	+	.	ID=snRNA_001393;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm2	cmsearch	snRNA	21510911	21510997	54.65	+	.	ID=snRNA_000049;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm2	cmsearch	snRNA	21511245	21511330	72.6	+	.	ID=snRNA_000050;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm6	cmsearch	snRNA	19650832	19650927	51.52	-	.	ID=snRNA_001423;Target=RF01282 1 83;Threshold=48.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR21b;
+Pm1	cmsearch	snRNA	4176571	4176760	86.21	+	.	ID=snRNA_000071;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm5	cmsearch	snRNA	6822203	6822309	49.91	+	.	ID=snRNA_000077;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm1	cmsearch	snRNA	23156564	23156653	53.88	+	.	ID=snRNA_000083;Target=RF01198 1 101;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR69Y;
+Pm1	cmsearch	snRNA	23179226	23179314	65.41	+	.	ID=snRNA_000084;Target=RF01198 1 101;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR69Y;
+Pm1	cmsearch	snRNA	23179511	23179606	58.24	+	.	ID=snRNA_000086;Target=RF01198 1 101;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR69Y;
+Pm1	cmsearch	snRNA	23355176	23355296	75.37	-	.	ID=snRNA_000082;Target=RF01227 1 129;Threshold=20.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR83;
+Pm6	cmsearch	snRNA	16216036	16216105	62.99	-	.	ID=snRNA_000090;Target=RF00339 1 72;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR60;
+Pm6	cmsearch	snRNA	16216358	16216430	62.91	-	.	ID=snRNA_000092;Target=RF00339 1 72;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR60;
+Pm7	cmsearch	snRNA	7626753	7626838	64.59	-	.	ID=snRNA_001435;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm1	cmsearch	snRNA	478349	478438	46.63	+	.	ID=snRNA_000103;Target=RF00069 1 76;Threshold=26.80;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD24;
+Pm1	cmsearch	snRNA	478153	478232	62.03	+	.	ID=snRNA_000105;Target=RF00204 1 83;Threshold=34.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R12;
+Pm3	cmsearch	snRNA	16041510	16041587	84.03	-	.	ID=snRNA_000112;Target=RF00355 1 78;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR28;
+Pm3	cmsearch	snRNA	16118917	16118988	43.9	+	.	ID=snRNA_000108;Target=RF00344 1 73;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z267;
+Pm2	cmsearch	snRNA	32938351	32938546	163	-	.	ID=snRNA_000117;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	34397207	34397403	153.93	+	.	ID=snRNA_001438;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm4	cmsearch	snRNA	18060194	18060291	66.12	+	.	ID=snRNA_000121;Target=RF00333 1 100;Threshold=25.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z157/R69/R10;
+Pm4	cmsearch	snRNA	18060463	18060550	77.95	+	.	ID=snRNA_000122;Target=RF00349 1 90;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R11/Z151;
+Pm4	cmsearch	snRNA	18060635	18060755	65.12	+	.	ID=snRNA_000123;Target=RF00350 1 109;Threshold=55.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z152/R70/R12/;
+Pm4	cmsearch	snRNA	18060826	18060948	91.22	+	.	ID=snRNA_000124;Target=RF01224 1 129;Threshold=40.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR80;
+Pm4	cmsearch	snRNA	18062341	18062438	66.12	+	.	ID=snRNA_000126;Target=RF00333 1 100;Threshold=25.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z157/R69/R10;
+Pm4	cmsearch	snRNA	18062611	18062698	70.87	+	.	ID=snRNA_000127;Target=RF00349 1 90;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R11/Z151;
+Pm4	cmsearch	snRNA	18062783	18062896	68.81	+	.	ID=snRNA_000128;Target=RF00350 1 109;Threshold=55.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z152/R70/R12/;
+Pm4	cmsearch	snRNA	18062967	18063090	91.09	+	.	ID=snRNA_000129;Target=RF01224 1 129;Threshold=40.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR80;
+Pm4	cmsearch	snRNA	18384990	18385200	108.15	-	.	ID=snRNA_000133;Target=RF00012 1 211;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U3;
+Pm3	cmsearch	snRNA	5326700	5326870	58.05	+	.	ID=snRNA_000146;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm4	cmsearch	snRNA	18873981	18874071	45.69	-	.	ID=snRNA_000152;Target=RF00135 1 94;Threshold=26.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z223;
+Pm4	cmsearch	snRNA	18874144	18874232	86.74	-	.	ID=snRNA_000153;Target=RF01302 1 90;Threshold=45.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=SnoRNA U36a;
+Pm4	cmsearch	snRNA	18881037	18881144	77.39	-	.	ID=snRNA_000155;Target=RF01215 1 106;Threshold=28.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR97;
+Pm4	cmsearch	snRNA	18882007	18882098	61.56	-	.	ID=snRNA_000160;Target=RF00135 1 94;Threshold=26.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z223;
+Pm4	cmsearch	snRNA	18882168	18882256	89.09	-	.	ID=snRNA_000161;Target=RF01302 1 90;Threshold=45.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=SnoRNA U36a;
+Pm4	cmsearch	snRNA	18887052	18887159	77.39	-	.	ID=snRNA_000163;Target=RF01215 1 106;Threshold=28.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR97;
+Pm4	cmsearch	snRNA	18887757	18887848	58.01	-	.	ID=snRNA_000167;Target=RF00135 1 94;Threshold=26.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z223;
+Pm4	cmsearch	snRNA	18887917	18888005	89.09	-	.	ID=snRNA_000169;Target=RF01302 1 90;Threshold=45.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=SnoRNA U36a;
+Pm1	cmsearch	snRNA	25228097	25228258	138.35	+	.	ID=snRNA_000187;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm1	cmsearch	snRNA	25227114	25227275	131.83	+	.	ID=snRNA_000188;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm1	cmsearch	snRNA	25226360	25226520	140.67	+	.	ID=snRNA_000189;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm1	cmsearch	snRNA	25224936	25225091	108.82	+	.	ID=snRNA_000190;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm1	cmsearch	snRNA	25223966	25224126	138.1	+	.	ID=snRNA_000191;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm2	cmsearch	snRNA	13083834	13083923	36.75	+	.	ID=snRNA_000207;Target=RF00221 1 64;Threshold=26.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD43;
+Pm2	cmsearch	snRNA	13083703	13083784	47.62	+	.	ID=snRNA_000211;Target=RF00296 1 86;Threshold=32.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R16;
+Pm2	cmsearch	snRNA	13083548	13083634	56.63	+	.	ID=snRNA_000214;Target=RF00296 1 86;Threshold=32.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R16;
+Pm2	cmsearch	snRNA	12925918	12926102	132.04	-	.	ID=snRNA_000216;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	12925080	12925275	156.99	-	.	ID=snRNA_000217;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	12760567	12760673	46	+	.	ID=snRNA_000218;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm2	cmsearch	snRNA	12735555	12735661	43.73	+	.	ID=snRNA_000219;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm2	cmsearch	snRNA	12338377	12338481	88.05	+	.	ID=snRNA_000198;Target=RF01213 1 105;Threshold=28.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR103;
+Pm2	cmsearch	snRNA	12255144	12255229	69.86	-	.	ID=snRNA_000202;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm2	cmsearch	snRNA	12254062	12254147	72.6	-	.	ID=snRNA_000203;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm2	cmsearch	snRNA	32761461	32761533	61.55	-	.	ID=snRNA_000236;Target=RF00202 1 77;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R66;
+Pm2	cmsearch	snRNA	32658554	32658749	158.83	-	.	ID=snRNA_000238;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	32654795	32654990	148.8	-	.	ID=snRNA_000239;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	32652975	32653136	128.13	-	.	ID=snRNA_000240;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm2	cmsearch	snRNA	32647708	32647869	125.41	-	.	ID=snRNA_000241;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm2	cmsearch	snRNA	32645786	32645991	55.8	-	.	ID=snRNA_000242;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm3	cmsearch	snRNA	3712518	3712620	69.23	+	.	ID=snRNA_000257;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm3	cmsearch	snRNA	3831672	3831753	69.28	+	.	ID=snRNA_000251;Target=RF01285 1 88;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U31b;
+Pm3	cmsearch	snRNA	3832063	3832140	39.9	+	.	ID=snRNA_000252;Target=RF00133 1 85;Threshold=26.40;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z195/SNORD33/SNORD32 family;
+Pm3	cmsearch	snRNA	3832231	3832314	70.37	+	.	ID=snRNA_000253;Target=RF00134 1 84;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z196/R39/R59 family;
+Pm4	cmsearch	snRNA	8527726	8527877	84	+	.	ID=snRNA_000258;Target=RF00015 1 138;Threshold=41.00;type="Gene; snRNA; splicing;";Annotation=U4 spliceosomal RNA;
+Pm4	cmsearch	snRNA	8535271	8535466	154.51	+	.	ID=snRNA_000259;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm4	cmsearch	snRNA	8559641	8559836	156.02	+	.	ID=snRNA_000261;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm5	cmsearch	snRNA	601994	602079	52.01	+	.	ID=snRNA_000266;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm3	cmsearch	snRNA	603382	603508	76.43	+	.	ID=snRNA_000277;Target=RF01228 1 132;Threshold=30.00;type="Gene; snRNA; snoRNA; HACA-box; ";Annotation=Small nucleolar RNA snoR111;
+Pm2	cmsearch	snRNA	38644239	38644347	41.9	+	.	ID=snRNA_000298;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm8	cmsearch	snRNA	806297	806408	46.73	+	.	ID=snRNA_000300;Target=RF01236 1 144;Threshold=22.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA U19;
+Pm8	cmsearch	snRNA	2695553	2695657	40.84	+	.	ID=snRNA_000310;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm8	cmsearch	snRNA	2561839	2561945	68.81	-	.	ID=snRNA_000309;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm2	cmsearch	snRNA	10358385	10358488	81.7	+	.	ID=snRNA_000314;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm7	cmsearch	snRNA	16039558	16039718	143.76	-	.	ID=snRNA_000321;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm3	cmsearch	snRNA	13760565	13760690	114	-	.	ID=snRNA_000333;Target=RF00303 1 123;Threshold=60.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR86;
+Pm3	cmsearch	snRNA	22663904	22663984	48.47	-	.	ID=snRNA_000338;Target=RF00315 1 81;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA J33;
+Pm1	cmsearch	snRNA	920498	920603	44.6	-	.	ID=snRNA_000349;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm1	cmsearch	snRNA	758154	758257	110.72	-	.	ID=snRNA_000351;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm1	cmsearch	snRNA	16927912	16928012	59.43	+	.	ID=snRNA_000354;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm4	cmsearch	snRNA	11402470	11402578	36.51	+	.	ID=snRNA_000371;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+Pm5	cmsearch	snRNA	22861817	22861913	52.09	+	.	ID=snRNA_000375;Target=RF00353 1 99;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR31/Z110/Z27;
+Pm5	cmsearch	snRNA	22861648	22861736	69.02	+	.	ID=snRNA_000378;Target=RF01288 1 100;Threshold=60.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR31;
+Pm5	cmsearch	snRNA	22861459	22861559	76.37	+	.	ID=snRNA_000379;Target=RF00046 1 96;Threshold=25.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R30/Z108;
+Pm5	cmsearch	snRNA	22861303	22861392	47.5	+	.	ID=snRNA_000380;Target=RF00360 1 117;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z107/R87;
+Pm8	cmsearch	snRNA	5626145	5626247	111.12	-	.	ID=snRNA_001486;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm6	cmsearch	snRNA	20434468	20434631	66.1	-	.	ID=snRNA_000430;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm6	cmsearch	snRNA	20435215	20435410	158.77	-	.	ID=snRNA_000431;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm8	cmsearch	snRNA	6511800	6511902	111.12	-	.	ID=snRNA_000437;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm8	cmsearch	snRNA	6501885	6501986	96.69	+	.	ID=snRNA_000438;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm8	cmsearch	snRNA	6498653	6498755	111.12	+	.	ID=snRNA_000439;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm2	cmsearch	snRNA	30086478	30086639	134.6	+	.	ID=snRNA_000456;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm4	cmsearch	snRNA	959160	959262	66.36	-	.	ID=snRNA_001678;Target=RF00149 1 100;Threshold=50.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z103;
+Pm4	cmsearch	snRNA	959472	959573	71.54	-	.	ID=snRNA_001680;Target=RF00149 1 100;Threshold=50.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z103;
+Pm4	cmsearch	snRNA	1083166	1083268	65.12	-	.	ID=snRNA_001682;Target=RF00149 1 100;Threshold=50.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z103;
+Pm4	cmsearch	snRNA	1119627	1119714	47.88	-	.	ID=snRNA_001684;Target=RF01217 1 107;Threshold=29.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR72Y;
+Pm6	cmsearch	snRNA	565325	565418	75.52	-	.	ID=snRNA_000487;Target=RF00205 1 97;Threshold=50.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R41;
+Pm6	cmsearch	snRNA	565183	565257	47.48	-	.	ID=snRNA_000489;Target=RF00326 1 81;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z155;
+Pm8	cmsearch	snRNA	8262687	8262789	111.12	+	.	ID=snRNA_001696;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm6	cmsearch	snRNA	16767826	16767986	133.59	-	.	ID=snRNA_001483;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm2	cmsearch	snRNA	40792530	40792657	60.47	+	.	ID=snRNA_001712;Target=RF00548 1 134;Threshold=39.00;type="Gene; snRNA; splicing;";Annotation=U11 spliceosomal RNA;
+Pm2	cmsearch	snRNA	40336792	40336903	65.45	-	.	ID=snRNA_001713;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm1	cmsearch	snRNA	5592076	5592159	50.94	+	.	ID=snRNA_001728;Target=RF00054 1 88;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD25;
+Pm1	cmsearch	snRNA	5591867	5591947	46.35	+	.	ID=snRNA_001729;Target=RF00054 1 88;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD25;
+Pm1	cmsearch	snRNA	5566331	5566414	50.73	-	.	ID=snRNA_001730;Target=RF00054 1 88;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD25;
+Pm6	cmsearch	snRNA	10097924	10098136	117.66	+	.	ID=snRNA_001737;Target=RF00012 1 211;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U3;
+Pm6	cmsearch	snRNA	10165721	10165851	86.96	+	.	ID=snRNA_001742;Target=RF01227 1 129;Threshold=20.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR83;
+Pm4	cmsearch	snRNA	9890039	9890119	77.15	+	.	ID=snRNA_001766;Target=RF00315 1 81;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA J33;
+Pm8	cmsearch	snRNA	14293629	14293720	73.15	+	.	ID=snRNA_001789;Target=RF00132 1 97;Threshold=32.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R24;
+Pm5	cmsearch	snRNA	5545094	5545254	137.17	-	.	ID=snRNA_001797;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm5	cmsearch	snRNA	5545937	5546097	138.8	-	.	ID=snRNA_001798;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm5	cmsearch	snRNA	5546735	5546930	155.16	-	.	ID=snRNA_001799;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm6	cmsearch	snRNA	9121231	9121300	58.35	-	.	ID=snRNA_001809;Target=RF00339 1 72;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR60;
+Pm6	cmsearch	snRNA	9121562	9121634	60.73	-	.	ID=snRNA_001811;Target=RF00339 1 72;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR60;
+Pm5	cmsearch	snRNA	20185178	20185296	86.02	-	.	ID=snRNA_001814;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	20192388	20192506	86.02	-	.	ID=snRNA_001817;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	20195263	20195377	71.55	-	.	ID=snRNA_001819;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	20196333	20196441	78.25	-	.	ID=snRNA_001820;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	20199894	20200012	82.47	-	.	ID=snRNA_001821;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	20205780	20205898	82.47	-	.	ID=snRNA_001822;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+Pm5	cmsearch	snRNA	20243799	20243994	163.96	+	.	ID=snRNA_001823;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm5	cmsearch	snRNA	20268679	20268829	84.88	-	.	ID=snRNA_001824;Target=RF00007 1 150;Threshold=35.00;type="Gene; snRNA; splicing;";Annotation=U12 minor spliceosomal RNA;
+Pm4	cmsearch	snRNA	3723163	3723255	77.54	+	.	ID=snRNA_001509;Target=RF00132 1 97;Threshold=32.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R24;
+Pm4	cmsearch	snRNA	3723399	3723483	42.34	+	.	ID=snRNA_001510;Target=RF00132 1 97;Threshold=32.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R24;
+Pm3	cmsearch	snRNA	16626533	16626614	41.21	+	.	ID=snRNA_001833;Target=RF00296 1 86;Threshold=32.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R16;
+Pm7	cmsearch	snRNA	14906669	14906753	71.52	-	.	ID=snRNA_001864;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm7	cmsearch	snRNA	14906918	14907003	71.17	-	.	ID=snRNA_001866;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm7	cmsearch	snRNA	14907235	14907306	53.89	-	.	ID=snRNA_001868;Target=RF00344 1 73;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z267;
+Pm2	cmsearch	snRNA	20643361	20643498	80.04	-	.	ID=snRNA_001870;Target=RF01231 1 134;Threshold=27.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR74;
+Pm2	cmsearch	snRNA	20643540	20643677	89.83	-	.	ID=snRNA_001872;Target=RF01231 1 134;Threshold=27.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR74;
+Pm2	cmsearch	snRNA	20643719	20643856	70.13	-	.	ID=snRNA_001881;Target=RF01231 1 134;Threshold=27.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR74;
+Pm4	cmsearch	snRNA	11452673	11452757	59.91	-	.	ID=snRNA_001901;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm5	cmsearch	snRNA	21905066	21905262	135.05	+	.	ID=snRNA_001513;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm5	cmsearch	snRNA	21906086	21906285	118.7	+	.	ID=snRNA_001514;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm8	cmsearch	snRNA	15226524	15226616	75.08	-	.	ID=snRNA_001911;Target=RF00330 1 100;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z43;
+Pm8	cmsearch	snRNA	15226970	15227058	65.96	-	.	ID=snRNA_001913;Target=RF00309 1 98;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snR60/Z15/Z230/Z193/J17;
+Pm8	cmsearch	snRNA	15227145	15227227	49.2	-	.	ID=snRNA_001915;Target=RF01179 1 84;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U83;
+Pm8	cmsearch	snRNA	15227339	15227421	51.14	-	.	ID=snRNA_001917;Target=RF00086 1 77;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD27;
+Pm8	cmsearch	snRNA	15227556	15227654	78.32	-	.	ID=snRNA_001918;Target=RF00330 1 100;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z43;
+Pm2	cmsearch	snRNA	31529860	31530020	120.26	-	.	ID=snRNA_001933;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31531783	31531944	127.49	-	.	ID=snRNA_001934;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31533550	31533743	139.72	-	.	ID=snRNA_001935;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31536431	31536592	126.23	-	.	ID=snRNA_001936;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31542803	31542997	140.77	-	.	ID=snRNA_001937;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31543666	31543862	145.65	-	.	ID=snRNA_001938;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31545600	31545761	138.13	-	.	ID=snRNA_001939;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31547223	31547384	130.87	-	.	ID=snRNA_001940;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31549140	31549335	150.47	-	.	ID=snRNA_001941;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31551537	31551698	134.35	-	.	ID=snRNA_001943;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31552508	31552703	149.24	-	.	ID=snRNA_001944;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31553863	31554058	151.16	-	.	ID=snRNA_001945;Target=RF00004 1 192;Threshold=46.20;type="Gene; snRNA; splicing;";Annotation=U2 spliceosomal RNA;
+Pm2	cmsearch	snRNA	31160182	31160301	90.68	-	.	ID=snRNA_001969;Target=RF01220 1 118;Threshold=40.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR104;
+Pm1	cmsearch	snRNA	18702465	18702567	91.3	-	.	ID=snRNA_001523;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm4	cmsearch	snRNA	5671211	5671282	53.89	-	.	ID=snRNA_001998;Target=RF00344 1 73;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z267;
+Pm4	cmsearch	snRNA	5670884	5670969	67.9	-	.	ID=snRNA_002001;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm3	cmsearch	snRNA	2225372	2225452	80.71	+	.	ID=snRNA_001550;Target=RF00315 1 81;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA J33;
+Pm7	cmsearch	snRNA	4064396	4064482	52.29	+	.	ID=snRNA_001525;Target=RF01170 1 85;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U61;
+Pm7	cmsearch	snRNA	4064571	4064656	82.62	+	.	ID=snRNA_001527;Target=RF01280 1 84;Threshold=50.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR14;
+Pm7	cmsearch	snRNA	4064756	4064853	78.56	+	.	ID=snRNA_001529;Target=RF00358 1 96;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z101;
+Pm7	cmsearch	snRNA	4119163	4119245	80.14	+	.	ID=snRNA_001531;Target=RF01280 1 84;Threshold=50.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR14;
+Pm7	cmsearch	snRNA	4119316	4119413	78.87	+	.	ID=snRNA_001532;Target=RF00358 1 96;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z101;
+Pm7	cmsearch	snRNA	4120223	4120315	80.72	+	.	ID=snRNA_001533;Target=RF00358 1 96;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z101;
+Pm2	cmsearch	snRNA	11010276	11010363	97.48	+	.	ID=snRNA_002034;Target=RF01284 1 92;Threshold=50.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR8a;
+Pm2	cmsearch	snRNA	11010808	11010903	72.87	+	.	ID=snRNA_002036;Target=RF00132 1 97;Threshold=32.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R24;
+Pm6	cmsearch	snRNA	12847665	12847877	121.58	-	.	ID=snRNA_002067;Target=RF00012 1 211;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U3;
+Pm1	cmsearch	snRNA	14833968	14834073	63.57	-	.	ID=snRNA_001544;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+Pm2	cmsearch	snRNA	9081601	9081724	94.65	+	.	ID=snRNA_003569;Target=RF01230 1 132;Threshold=40.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR77;
+Pm1	cmsearch	snRNA	22344592	22344663	46.45	-	.	ID=snRNA_001567;Target=RF00344 1 73;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z267;
+Pm1	cmsearch	snRNA	22344281	22344366	64.86	-	.	ID=snRNA_001570;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm1	cmsearch	snRNA	22340554	22340639	64.86	-	.	ID=snRNA_001574;Target=RF00357 1 96;Threshold=38.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R44/J54/Z268 family;
+Pm1	cmsearch	snRNA	22055543	22055622	70.04	-	.	ID=snRNA_001560;Target=RF00218 1 84;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD46;
+Pm1	cmsearch	snRNA	22054804	22054881	48.75	-	.	ID=snRNA_001561;Target=RF00218 1 84;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD46;
+Pm1	cmsearch	snRNA	22054484	22054562	57.49	-	.	ID=snRNA_001564;Target=RF00218 1 84;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD46;
+Pm1	cmsearch	snRNA	1521237	1521343	78.88	-	.	ID=snRNA_003592;Target=RF01219 1 116;Threshold=21.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR100;
+Pm8	cmsearch	snRNA	16872418	16872522	92.12	-	.	ID=snRNA_003635;Target=RF01213 1 105;Threshold=28.00;type="Gene; snRNA; snoRNA; HACA-box;";Annotation=Small nucleolar RNA snoR103;
+Pm2	cmsearch	snRNA	8328312	8328473	136.87	-	.	ID=snRNA_001597;Target=RF00003 1 165;Threshold=37.00;type="Gene; snRNA; splicing;";Annotation=U1 spliceosomal RNA;
+Pm2	tRNAscan-SE	tRNA	22385856	22385928	77.32	+	.	ID=tRNA_0006;Type=Lys;Anti-codon=CTT;structure=">>.>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<.<<.";
+Pm2	tRNAscan-SE	tRNA	22451710	22451782	84.38	+	.	ID=tRNA_0007;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	22451893	22451964	59.95	+	.	ID=tRNA_0008;Type=Lys;Anti-codon=CTT;structure=">>>>>>..>>>>........<<<<.>.>>>.......<<<.<.....>.>>>.......<<<.<<<<.<<<.";
+Pm4	tRNAscan-SE	tRNA	17404238	17404311	79.65	+	.	ID=tRNA_0009;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	11639874	11639947	85.02	+	.	ID=tRNA_0010;Type=Val;Anti-codon=CAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	3513347	3513431	61.15	-	.	ID=tRNA_0011;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.........<<<<.>>>>....................<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	2412114	2412186	87.61	-	.	ID=tRNA_0012;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	2625902	2625986	61.15	+	.	ID=tRNA_0013;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.........<<<<.>>>>....................<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	3493367	3493447	52.25	+	.	ID=tRNA_0020;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	10565199	10565270	21.36	-	.	ID=tRNA_0021;Type=Thr;Anti-codon=TGT;structure=">>.>>>...>............<..>>>>.........<<<<.....>>>>>.......<<<<<.<<<.<<.";
+Pm7	tRNAscan-SE	tRNA	13605583	13605654	69.46	+	.	ID=tRNA_0022;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	13906450	13906529	68.72	+	.	ID=tRNA_0023;Type=Leu;Anti-codon=TAG;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	13454408	13454479	67.87	-	.	ID=tRNA_0024;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	19004270	19004343	76.02	+	.	ID=tRNA_0025;Type=Thr;Anti-codon=AGT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	4415062	4415143	81.28	+	.	ID=tRNA_0026;Type=Ser;Anti-codon=CGA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	4370719	4370792	82.78	-	.	ID=tRNA_0027;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	4287948	4288020	73.6	-	.	ID=tRNA_0028;Type=Arg;Anti-codon=TCT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	4197130	4197202	72.81	+	.	ID=tRNA_0033;Type=Arg;Anti-codon=ACG;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	4197294	4197377	70.82	+	.	ID=tRNA_0034;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	20659207	20659279	88.06	+	.	ID=tRNA_0035;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	4871395	4871467	87.61	-	.	ID=tRNA_0036;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	8740099	8740171	77.7	+	.	ID=tRNA_0037;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	8755692	8755764	73.56	+	.	ID=tRNA_0038;Type=Arg;Anti-codon=TCT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	28984559	28984632	44.06	-	.	ID=tRNA_0039;Type=Cys;Anti-codon=ACA;structure=">>>>.....>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<...<<<<.";
+Pm4	tRNAscan-SE	tRNA	8176086	8176156	71.56	-	.	ID=tRNA_0040;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	20693424	20693504	68.57	+	.	ID=tRNA_0043;Type=Leu;Anti-codon=CAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	20766126	20766193	24.45	+	.	ID=tRNA_0044;Type=Pseudo;Anti-codon=AAT;structure=">>.>..>>>>......<<<..>>>>.......<<<<......>>>>>.......<<<<<.<..<.<<.";
+Pm4	tRNAscan-SE	tRNA	20600381	20600452	69.46	+	.	ID=tRNA_0045;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	20973280	20973351	73.73	+	.	ID=tRNA_0046;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	21657086	21657158	68.12	+	.	ID=tRNA_0047;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	22132685	22132757	69.65	+	.	ID=tRNA_0048;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	22715208	22715280	69.9	+	.	ID=tRNA_0049;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	22132449	22132521	69.65	-	.	ID=tRNA_0050;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	20305784	20305856	77.31	+	.	ID=tRNA_0052;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	20469538	20469609	71.75	-	.	ID=tRNA_0053;Type=Pro;Anti-codon=AGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	20598392	20598465	85.42	+	.	ID=tRNA_0054;Type=Val;Anti-codon=CAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	21170358	21170431	72.14	+	.	ID=tRNA_0055;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	21312298	21312371	79.65	+	.	ID=tRNA_0056;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	21559798	21559871	82.11	-	.	ID=tRNA_0057;Type=Arg;Anti-codon=TCG;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	21211392	21211463	62.38	-	.	ID=tRNA_0058;Type=His;Anti-codon=GTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	20962912	20962984	87.57	-	.	ID=tRNA_0059;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	20962706	20962778	87.57	-	.	ID=tRNA_0060;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	20493427	20493497	71.56	-	.	ID=tRNA_0061;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	12885417	12885487	61.55	+	.	ID=tRNA_0062;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>...........<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	12894122	12894208	57.56	+	.	ID=tRNA_0063;Type=Ser;Anti-codon=GGA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<...>>>>....<<<<...>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	12897479	12897551	63.33	+	.	ID=tRNA_0064;Type=Phe;Anti-codon=GAA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	13009656	13009736	52.25	-	.	ID=tRNA_0065;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	12895492	12895564	71.03	-	.	ID=tRNA_0066;Type=Thr;Anti-codon=TGT;structure=">>>.>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<.";
+Pm1	tRNAscan-SE	tRNA	12885645	12885718	63.88	-	.	ID=tRNA_0067;Type=Met;Anti-codon=CAT;structure=".>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<..";
+Pm1	tRNAscan-SE	tRNA	12884538	12884630	41.98	-	.	ID=tRNA_0068;Type=Ser;Anti-codon=TGA;structure=">>>>>>>..>>.>.........<.<<.>>>>>.......<<<<<...>>>>>........<<<<<...>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	995971	996042	42.91	+	.	ID=tRNA_0069;Type=Asp;Anti-codon=GTC;structure=">>.>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<.<<.";
+Pm7	tRNAscan-SE	tRNA	10943077	10943147	68.5	-	.	ID=tRNA_0070;Type=Gly;Anti-codon=CCC;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	17241729	17241816	77.06	-	.	ID=tRNA_0071;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>>>........<<<<.>>>>>......................<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	16851947	16852019	68.12	-	.	ID=tRNA_0072;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	16823501	16823584	72.55	-	.	ID=tRNA_0073;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	15368095	15368178	70.52	+	.	ID=tRNA_0075;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	15744511	15744583	77.31	-	.	ID=tRNA_0076;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	15081502	15081573	73.73	-	.	ID=tRNA_0077;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	14416962	14417033	78.52	-	.	ID=tRNA_0078;Type=Thr;Anti-codon=TGT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	14307274	14307346	68.12	-	.	ID=tRNA_0079;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	13555496	13555568	84.38	-	.	ID=tRNA_0080;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	18629209	18629280	62.38	-	.	ID=tRNA_0081;Type=His;Anti-codon=GTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	18603736	18603807	62.38	-	.	ID=tRNA_0082;Type=His;Anti-codon=GTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	18377613	18377686	80.7	+	.	ID=tRNA_0083;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	10885877	10885950	85.4	+	.	ID=tRNA_0084;Type=Ile;Anti-codon=TAT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	10995310	10995383	81.49	+	.	ID=tRNA_0085;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	11346251	11346321	71.56	+	.	ID=tRNA_0086;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	11406175	11406247	77.31	-	.	ID=tRNA_0087;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	10827077	10827148	72.6	-	.	ID=tRNA_0088;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	9937901	9937973	86.92	-	.	ID=tRNA_0089;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	7554221	7554293	76.67	+	.	ID=tRNA_0094;Type=Val;Anti-codon=TAC;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	7554412	7554484	76.67	+	.	ID=tRNA_0095;Type=Val;Anti-codon=TAC;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	351343	351427	61.15	+	.	ID=tRNA_0096;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.........<<<<.>>>>....................<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	423534	423605	77.63	+	.	ID=tRNA_0097;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	424628	424699	77.63	+	.	ID=tRNA_0098;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	448347	448418	69.46	+	.	ID=tRNA_0099;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	744564	744636	68.12	-	.	ID=tRNA_0100;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	182407	182488	84.2	-	.	ID=tRNA_0101;Type=Ser;Anti-codon=AGA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	13448330	13448422	75.78	+	.	ID=tRNA_0102;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>>>........<<<<.>>>>>...........................<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	1302329	1302400	71.75	-	.	ID=tRNA_0103;Type=Pro;Anti-codon=AGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	1302075	1302146	71.75	-	.	ID=tRNA_0104;Type=Pro;Anti-codon=AGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	1190259	1190329	71.56	-	.	ID=tRNA_0105;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	7959438	7959511	78.53	-	.	ID=tRNA_0106;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	7949287	7949358	73.14	-	.	ID=tRNA_0107;Type=Gly;Anti-codon=TCC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	7775254	7775326	76.26	-	.	ID=tRNA_0108;Type=Arg;Anti-codon=CCT;structure=">>>>>.>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.";
+Pm8	tRNAscan-SE	tRNA	7468905	7468977	70.4	+	.	ID=tRNA_0109;Type=Arg;Anti-codon=TCT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	7838463	7838535	64.11	+	.	ID=tRNA_0110;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	11625107	11625179	77.7	-	.	ID=tRNA_0111;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	7139233	7139306	77.22	-	.	ID=tRNA_0112;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	17670996	17671069	36.87	-	.	ID=tRNA_0113;Type=Val;Anti-codon=CAC;structure=">.>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>.>.......<.<<<<<<<<.<.";
+Pm6	tRNAscan-SE	tRNA	5661692	5661764	69.9	-	.	ID=tRNA_0114;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	5271602	5271674	77.7	+	.	ID=tRNA_0115;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	9115963	9116033	71.56	-	.	ID=tRNA_0116;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	20303255	20303337	64.8	+	.	ID=tRNA_0121;Type=Leu;Anti-codon=TAA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	23892202	23892274	84.38	+	.	ID=tRNA_0124;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	5096164	5096237	76.67	-	.	ID=tRNA_0125;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	4895506	4895577	62.38	-	.	ID=tRNA_0126;Type=His;Anti-codon=GTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	4643843	4643916	76.22	+	.	ID=tRNA_0127;Type=Ile;Anti-codon=AAT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	4647566	4647638	45.46	+	.	ID=tRNA_0128;Type=Pseudo;Anti-codon=AAG;structure=">>>>.>>..>>>>.........<<<<.>>>>>.......<<<<<.....>.>.>.......<.<.<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	4840909	4840982	82.11	+	.	ID=tRNA_0129;Type=Arg;Anti-codon=TCG;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	5092001	5092072	78.18	+	.	ID=tRNA_0130;Type=Cys;Anti-codon=GCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	19242795	19242866	78.52	-	.	ID=tRNA_0131;Type=Thr;Anti-codon=TGT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	18816395	18816467	75.05	-	.	ID=tRNA_0132;Type=Arg;Anti-codon=ACG;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	23101296	23101370	39.36	-	.	ID=tRNA_0133;Type=Pro;Anti-codon=TGG;structure=">>>>>>...>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>........<<<<<.<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	6649080	6649151	70.24	-	.	ID=tRNA_0134;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	7014166	7014237	73.73	+	.	ID=tRNA_0135;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	7014417	7014488	73.73	+	.	ID=tRNA_0136;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	7014731	7014802	66.74	+	.	ID=tRNA_0137;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	7015237	7015308	73.73	+	.	ID=tRNA_0138;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	7015905	7015976	73.73	+	.	ID=tRNA_0139;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	24758121	24758202	79.53	+	.	ID=tRNA_0140;Type=Ser;Anti-codon=GCT;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	25212981	25213060	68.72	+	.	ID=tRNA_0141;Type=Leu;Anti-codon=TAG;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	25213153	25213232	68.72	+	.	ID=tRNA_0142;Type=Leu;Anti-codon=TAG;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	25213324	25213403	68.72	+	.	ID=tRNA_0143;Type=Leu;Anti-codon=TAG;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	25323190	25323261	77.63	+	.	ID=tRNA_0144;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	25533864	25533936	65.14	+	.	ID=tRNA_0145;Type=Ala;Anti-codon=CGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	25587811	25587882	73.53	+	.	ID=tRNA_0146;Type=Gln;Anti-codon=CTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	26017863	26017934	77.63	+	.	ID=tRNA_0147;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	24642882	24642962	44.56	-	.	ID=tRNA_0148;Type=Leu;Anti-codon=CAA;structure=">>.>>>>..>>>..........<<<.>>>>>.......<<<<<..>>....<<...>>>>>.......<<<<<<<<<.<<.";
+Pm1	tRNAscan-SE	tRNA	13312301	13312374	34.7	+	.	ID=tRNA_0149;Type=His;Anti-codon=GTG;structure=">>.>>>>..>>>...........<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<<<.<<.";
+Pm1	tRNAscan-SE	tRNA	12293070	12293143	52.32	+	.	ID=tRNA_0151;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>............<<..>>>>.......<<<<.......>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	3766151	3766222	78.18	-	.	ID=tRNA_0152;Type=Cys;Anti-codon=GCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	22958743	22958835	74.92	-	.	ID=tRNA_0153;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>>>........<<<<.>>>>>...........................<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	22732892	22732963	55.68	-	.	ID=tRNA_0154;Type=His;Anti-codon=GTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>.......<<<<.<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	12230446	12230527	84.12	-	.	ID=tRNA_0155;Type=Ser;Anti-codon=AGA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	12784174	12784254	69.68	+	.	ID=tRNA_0156;Type=Leu;Anti-codon=AAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	12824211	12824292	80.82	+	.	ID=tRNA_0157;Type=Ser;Anti-codon=TGA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	13021250	13021321	74.09	+	.	ID=tRNA_0158;Type=Gln;Anti-codon=TTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	2685599	2685680	79.53	+	.	ID=tRNA_0159;Type=Ser;Anti-codon=GCT;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	1821518	1821590	51.51	-	.	ID=tRNA_0160;Type=Pseudo;Anti-codon=TTT;structure=">>>>.>>..>>>>........<<<<.>>>.>.......<.<<<.......>>>.......<<<..<<.<<<<.";
+Pm1	tRNAscan-SE	tRNA	15857656	15857746	75.8	-	.	ID=tRNA_0161;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>>>........<<<<.>>>>>.........................<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	15624464	15624536	72.21	-	.	ID=tRNA_0162;Type=Arg;Anti-codon=ACG;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	15471655	15471739	61.15	+	.	ID=tRNA_0163;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.........<<<<.>>>>....................<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	15498365	15498449	61.15	+	.	ID=tRNA_0164;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.........<<<<.>>>>....................<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	3193710	3193781	73.14	-	.	ID=tRNA_0165;Type=Gly;Anti-codon=TCC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	21794231	21794302	35.6	+	.	ID=tRNA_0168;Type=Gln;Anti-codon=TTG;structure=">>>>>.>...>>.........<<...>.>>.......<<.<......>>>>>.......<<<<<<.<<<<<.";
+Pm2	tRNAscan-SE	tRNA	21417190	21417270	69.68	-	.	ID=tRNA_0169;Type=Leu;Anti-codon=AAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	21385794	21385874	59.56	-	.	ID=tRNA_0170;Type=Leu;Anti-codon=AAG;structure=".>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<..";
+Pm3	tRNAscan-SE	tRNA	11483023	11483094	53.95	-	.	ID=tRNA_0171;Type=Asn;Anti-codon=GTT;structure=">>>.>>>..>>>>.......<<<<.>>>>>.......<<<<<......>>>>.......<<<<.<<<.<<<.";
+Pm6	tRNAscan-SE	tRNA	17779972	17780044	32.01	-	.	ID=tRNA_0172;Type=Val;Anti-codon=GAC;structure=">>>>..>..>>>>.........<<<<..>>>>.......<<<<.....>>>>>.......<<<<<<..<<<<.";
+Pm2	tRNAscan-SE	tRNA	27377161	27377233	77.7	+	.	ID=tRNA_0173;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	6187873	6187946	77.22	-	.	ID=tRNA_0174;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	23157994	23158077	73.73	+	.	ID=tRNA_0176;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	23536177	23536250	77.22	-	.	ID=tRNA_0177;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	3976805	3976876	69.46	+	.	ID=tRNA_0179;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	4401233	4401304	73.14	-	.	ID=tRNA_0180;Type=Gly;Anti-codon=TCC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	18693912	18693985	68.15	-	.	ID=tRNA_0181;Type=Thr;Anti-codon=AGT;structure=">>>.>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<.";
+Pm5	tRNAscan-SE	tRNA	19336606	19336677	71.75	-	.	ID=tRNA_0182;Type=Pro;Anti-codon=AGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18749040	18749124	33.93	-	.	ID=tRNA_0183;Type=Pseudo;Anti-codon=TGC;structure=">>>>>>>..>>>>.......<<<<.>>>>.................<<<<.>>><<<...>>>.>.......<.<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18748655	18748739	48.71	-	.	ID=tRNA_0184;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>.......<<<<.>..>>....................<<..<.....>>>>.........<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18747994	18748078	58.09	-	.	ID=tRNA_0185;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>.......<<<<.>..>>....................<<..<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18380832	18380904	70	-	.	ID=tRNA_0186;Type=Arg;Anti-codon=TCT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18752160	18752244	27	-	.	ID=tRNA_0187;Type=Val;Anti-codon=TAC;structure=">>>>>>>...>>>.......<<<..>>>>.................<<<<.>>><<<...>>>>.........<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18751780	18751864	27.89	-	.	ID=tRNA_0188;Type=Ala;Anti-codon=TGC;structure=">>>>>>>...>>>.......<<<..>..>>....................<<..<.....>>>>.........<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18751391	18751475	45.01	-	.	ID=tRNA_0189;Type=Ala;Anti-codon=TGC;structure=".>>>>>>..>>>>.......<<<<.>..>>....................<<..<.....>>>>>.......<<<<<<<<<<<..";
+Pm5	tRNAscan-SE	tRNA	18751003	18751087	39.86	-	.	ID=tRNA_0190;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>.......<<<<.>..>>....................<<..<.....>>>.>.......<.<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18750617	18750701	35.38	-	.	ID=tRNA_0191;Type=Pseudo;Anti-codon=TGC;structure=">>>>>>>..>>>>.......<<<<.>..>>....................<<..<.....>>>.>.......<.<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18750231	18750315	40.61	-	.	ID=tRNA_0192;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>.......<<<<.>>>>.................<<<<..........>>>.>.......<.<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18749845	18749929	49.08	-	.	ID=tRNA_0193;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>.......<<<<.>..>>....................<<..<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18749416	18749500	49.08	-	.	ID=tRNA_0194;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>.......<<<<.>..>>....................<<..<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	23956374	23956446	77.43	+	.	ID=tRNA_0197;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm1	tRNAscan-SE	tRNA	23348463	23348534	70.29	-	.	ID=tRNA_0198;Type=Pro;Anti-codon=CGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	5289697	5289766	20.2	-	.	ID=tRNA_0199;Type=Pseudo;Anti-codon=???;structure=">>>>..>>>...........<<<.>>..>........<..<<...>>>>>.......<<<<<<<...<<.";
+Pm6	tRNAscan-SE	tRNA	16214012	16214095	73.73	+	.	ID=tRNA_0202;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	13882990	13883060	71.56	+	.	ID=tRNA_0203;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	8918622	8918694	69.19	+	.	ID=tRNA_0204;Type=Arg;Anti-codon=CCG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	36330811	36330883	84.38	+	.	ID=tRNA_0205;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	23222478	23222549	75.35	+	.	ID=tRNA_0206;Type=Gln;Anti-codon=TTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	23377832	23377903	71.93	+	.	ID=tRNA_0207;Type=Gln;Anti-codon=CTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	23450289	23450360	62.38	-	.	ID=tRNA_0208;Type=His;Anti-codon=GTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	23377182	23377262	68.97	-	.	ID=tRNA_0209;Type=Leu;Anti-codon=AAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	23361620	23361701	80.82	-	.	ID=tRNA_0210;Type=Ser;Anti-codon=TGA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	23118035	23118107	84.38	-	.	ID=tRNA_0211;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	13283933	13284006	72.05	+	.	ID=tRNA_0212;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.......>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	33246532	33246604	64.11	-	.	ID=tRNA_0213;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	33083065	33083135	71.56	+	.	ID=tRNA_0214;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	33083224	33083294	69.82	+	.	ID=tRNA_0215;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	33250040	33250112	72.95	+	.	ID=tRNA_0216;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm2	tRNAscan-SE	tRNA	33251629	33251701	72.95	+	.	ID=tRNA_0217;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm4	tRNAscan-SE	tRNA	18393809	18393901	74.36	-	.	ID=tRNA_0218;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>>>........<<<<.>>>>>...........................<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	18337157	18337229	68.12	-	.	ID=tRNA_0219;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	5902255	5902336	84.2	-	.	ID=tRNA_0222;Type=Ser;Anti-codon=AGA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	5629926	5629996	71.56	-	.	ID=tRNA_0223;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	18912001	18912072	69.46	+	.	ID=tRNA_0224;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	18999554	18999625	74.02	+	.	ID=tRNA_0225;Type=Gln;Anti-codon=CTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	3987425	3987508	73.73	+	.	ID=tRNA_0228;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	6020796	6020867	73.14	+	.	ID=tRNA_0229;Type=Gly;Anti-codon=TCC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	6154333	6154405	70.6	+	.	ID=tRNA_0230;Type=Arg;Anti-codon=CCG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	7144579	7144663	61.15	+	.	ID=tRNA_0231;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.........<<<<.>>>>....................<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	7144279	7144350	74.09	-	.	ID=tRNA_0232;Type=Gln;Anti-codon=TTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	25173243	25173333	77.44	-	.	ID=tRNA_0233;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>>>........<<<<.>>>>>.........................<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	24803225	24803297	65.78	-	.	ID=tRNA_0234;Type=Ala;Anti-codon=CGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	24803717	24803798	80.82	+	.	ID=tRNA_0235;Type=Ser;Anti-codon=TGA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	24819206	24819287	80.82	+	.	ID=tRNA_0236;Type=Ser;Anti-codon=TGA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	24934042	24934113	73.73	+	.	ID=tRNA_0237;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	17846640	17846710	71.56	-	.	ID=tRNA_0238;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	16825657	16825728	77.63	-	.	ID=tRNA_0239;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	16795834	16795907	79.65	-	.	ID=tRNA_0240;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	16733169	16733242	76.02	+	.	ID=tRNA_0241;Type=Thr;Anti-codon=AGT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	17769208	17769281	86.07	+	.	ID=tRNA_0242;Type=Val;Anti-codon=CAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	13112201	13112272	72.6	-	.	ID=tRNA_0243;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	12998592	12998663	69.46	+	.	ID=tRNA_0244;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	13132596	13132672	55.55	+	.	ID=tRNA_0245;Type=Undet;Anti-codon=???;structure=">>>>>>>...>>>>........<<<<.>>>>>..........<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	13240518	13240590	68.12	+	.	ID=tRNA_0246;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	12910640	12910714	64.73	-	.	ID=tRNA_0247;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>...........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	12909325	12909399	64.73	-	.	ID=tRNA_0248;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>...........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	12861648	12861746	29.78	-	.	ID=tRNA_0249;Type=Pseudo;Anti-codon=GTA;structure=">>>>>.>..>>>>.........<<<<.>>>.>>...............................<<<<<.....>>>>>.......<<<<<<.<<<<<.";
+Pm2	tRNAscan-SE	tRNA	12450569	12450652	73.73	-	.	ID=tRNA_0250;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	12229895	12229965	59.8	-	.	ID=tRNA_0251;Type=Ile;Anti-codon=AAT;structure=">>>>>>>..>>>>.........<<<<.>>.......<...<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	11684867	11684938	69.46	-	.	ID=tRNA_0252;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	11838231	11838302	72.67	+	.	ID=tRNA_0253;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	12505880	12505952	77.43	+	.	ID=tRNA_0254;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm3	tRNAscan-SE	tRNA	12544513	12544584	77.95	+	.	ID=tRNA_0255;Type=Cys;Anti-codon=GCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	12544823	12544894	36.38	+	.	ID=tRNA_0256;Type=Undet;Anti-codon=???;structure=">>>>>>>..>>>>.......<<<<.>>>>>......<<<<<.....>>>>>........<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	12577020	12577092	68.7	+	.	ID=tRNA_0257;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	12774895	12774981	57.56	+	.	ID=tRNA_0258;Type=Ser;Anti-codon=GGA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<...>>>>....<<<<...>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	12776268	12776340	71.03	-	.	ID=tRNA_0259;Type=Thr;Anti-codon=TGT;structure=">>>.>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<.";
+Pm3	tRNAscan-SE	tRNA	12348614	12348686	77.43	-	.	ID=tRNA_0260;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm3	tRNAscan-SE	tRNA	12287245	12287316	74.02	-	.	ID=tRNA_0261;Type=Gln;Anti-codon=CTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	16667785	16667857	77.43	+	.	ID=tRNA_0262;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm5	tRNAscan-SE	tRNA	16197450	16197521	68.81	+	.	ID=tRNA_0263;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	16197686	16197757	58.34	+	.	ID=tRNA_0264;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>.........<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	16197935	16198006	68.81	+	.	ID=tRNA_0265;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	10660941	10661012	69.43	+	.	ID=tRNA_0266;Type=Gln;Anti-codon=CTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	10747434	10747515	80.82	+	.	ID=tRNA_0267;Type=Ser;Anti-codon=TGA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	10775903	10775974	78.18	+	.	ID=tRNA_0268;Type=Cys;Anti-codon=GCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	10677096	10677169	76.93	-	.	ID=tRNA_0269;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	10670567	10670638	78.18	-	.	ID=tRNA_0270;Type=Cys;Anti-codon=GCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	4313102	4313175	81.83	+	.	ID=tRNA_0271;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	17247802	17247874	20.28	-	.	ID=tRNA_0272;Type=Pseudo;Anti-codon=TGC;structure=".>>>>>...>.>>.......<<.<.>.>.>.........<.<<.......>>>.......<<<...<<<<<..";
+Pm5	tRNAscan-SE	tRNA	17319391	17319462	78.18	+	.	ID=tRNA_0273;Type=Cys;Anti-codon=GCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	17324099	17324170	78.18	+	.	ID=tRNA_0274;Type=Cys;Anti-codon=GCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	17645273	17645346	77.22	+	.	ID=tRNA_0275;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18231535	18231606	68.81	+	.	ID=tRNA_0276;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	18233070	18233141	68.81	+	.	ID=tRNA_0277;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	19913798	19913868	61.07	-	.	ID=tRNA_0278;Type=Gly;Anti-codon=CCC;structure=".>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<..";
+Pm4	tRNAscan-SE	tRNA	19481274	19481354	46.31	-	.	ID=tRNA_0279;Type=Leu;Anti-codon=TAA;structure=">>>>>>>..>>>..........<<<..>>>>.......<<<<..>>>....<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	41381519	41381591	69.65	+	.	ID=tRNA_0280;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	355300	355372	77.43	-	.	ID=tRNA_0281;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm4	tRNAscan-SE	tRNA	14098331	14098412	84.2	-	.	ID=tRNA_0284;Type=Ser;Anti-codon=AGA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	38152567	38152648	82.35	+	.	ID=tRNA_0285;Type=Ser;Anti-codon=AGA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	38162012	38162093	79.73	+	.	ID=tRNA_0286;Type=Ser;Anti-codon=AGA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	38231491	38231563	84.38	+	.	ID=tRNA_0287;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	38244351	38244423	84.38	+	.	ID=tRNA_0288;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	38335235	38335325	75.67	-	.	ID=tRNA_0289;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>>>........<<<<.>>>>>.........................<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	37992605	37992684	49.83	-	.	ID=tRNA_0290;Type=Leu;Anti-codon=TAG;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>..<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	37978707	37978786	49.83	-	.	ID=tRNA_0291;Type=Leu;Anti-codon=TAG;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>..<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	2741386	2741458	77.7	-	.	ID=tRNA_0292;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	1785323	1785394	75.35	+	.	ID=tRNA_0293;Type=Gln;Anti-codon=TTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	1727426	1727498	54.03	-	.	ID=tRNA_0294;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	1713197	1713269	54.03	-	.	ID=tRNA_0295;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	10801659	10801732	81.49	-	.	ID=tRNA_0296;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	10743841	10743913	65.14	-	.	ID=tRNA_0297;Type=Ala;Anti-codon=CGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	10834205	10834278	74.28	+	.	ID=tRNA_0298;Type=Thr;Anti-codon=AGT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	10834369	10834442	74.28	+	.	ID=tRNA_0299;Type=Thr;Anti-codon=AGT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	10834533	10834606	74.28	+	.	ID=tRNA_0300;Type=Thr;Anti-codon=AGT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	16257214	16257294	68.57	-	.	ID=tRNA_0301;Type=Leu;Anti-codon=CAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	39194969	39195040	32.39	-	.	ID=tRNA_0302;Type=Pseudo;Anti-codon=GCA;structure=">>..>>>..>>>>........<<<<..>>>.........<<<.....>..>>.......<<..<<<<..<<.";
+Pm3	tRNAscan-SE	tRNA	14288557	14288628	68.81	+	.	ID=tRNA_0303;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	22839773	22839844	77.63	+	.	ID=tRNA_0304;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	17050709	17050790	79.53	-	.	ID=tRNA_0305;Type=Ser;Anti-codon=GCT;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	12708172	12708244	87.57	-	.	ID=tRNA_0306;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	12705146	12705218	87.57	-	.	ID=tRNA_0307;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	12681688	12681760	87.57	-	.	ID=tRNA_0308;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	844791	844862	77.63	-	.	ID=tRNA_0309;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	217721	217794	69.15	+	.	ID=tRNA_0310;Type=Arg;Anti-codon=TCG;structure=">>>.>>>..>>>>.........<<<<.>>>.>.......<.<<<.....>>>>>.......<<<<<<<<.<<<.";
+Pm2	tRNAscan-SE	tRNA	223148	223221	81.86	+	.	ID=tRNA_0311;Type=Arg;Anti-codon=TCG;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	227901	227974	81.86	+	.	ID=tRNA_0312;Type=Arg;Anti-codon=TCG;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	11958327	11958400	76.5	-	.	ID=tRNA_0313;Type=Thr;Anti-codon=AGT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	11799114	11799187	85.42	-	.	ID=tRNA_0314;Type=Val;Anti-codon=CAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	11986412	11986483	58.49	+	.	ID=tRNA_0315;Type=Cys;Anti-codon=GCA;structure=">>>>>.>..>>>>.......<<<<.>>>>.........<<<<.....>>>>.........<<<<<.<<<<<.";
+Pm4	tRNAscan-SE	tRNA	11989677	11989750	39.09	+	.	ID=tRNA_0316;Type=Pseudo;Anti-codon=GCA;structure=">.>>>>......>>>>.......<<<<.>>>>.........<<<<......>>>>.......<<<<.<<<<.<.";
+Pm2	tRNAscan-SE	tRNA	20821613	20821693	69.68	+	.	ID=tRNA_0317;Type=Leu;Anti-codon=AAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	21190506	21190577	74.09	+	.	ID=tRNA_0318;Type=Gln;Anti-codon=TTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	21212826	21212905	68.65	-	.	ID=tRNA_0319;Type=Leu;Anti-codon=TAG;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	6183410	6183481	62.38	-	.	ID=tRNA_0320;Type=His;Anti-codon=GTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	2766326	2766398	68.7	-	.	ID=tRNA_0321;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	15707594	15707675	84.2	+	.	ID=tRNA_0322;Type=Ser;Anti-codon=AGA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	15785854	15785935	79.53	+	.	ID=tRNA_0323;Type=Ser;Anti-codon=GCT;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	15780190	15780262	72.63	-	.	ID=tRNA_0324;Type=Arg;Anti-codon=CCT;structure=">>>>>.>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.";
+Pm7	tRNAscan-SE	tRNA	9754002	9754085	73.73	+	.	ID=tRNA_0326;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	6751275	6751347	40.56	-	.	ID=tRNA_0327;Type=Cys;Anti-codon=GCA;structure=">>>>.>>..>>>..........<<<..>>>>.......<<<<......>>>.>.......<.<<<<<.<<<<.";
+Pm8	tRNAscan-SE	tRNA	6692806	6692878	64.11	+	.	ID=tRNA_0328;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	8329299	8329371	59.47	-	.	ID=tRNA_0329;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	8326229	8326300	59.63	-	.	ID=tRNA_0330;Type=Gly;Anti-codon=GCC;structure=">>>>>>...>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<.<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	8322245	8322316	50.6	-	.	ID=tRNA_0331;Type=Gln;Anti-codon=TTG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	8117360	8117432	75.05	-	.	ID=tRNA_0332;Type=Arg;Anti-codon=ACG;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	8096634	8096706	72.63	-	.	ID=tRNA_0333;Type=Arg;Anti-codon=CCT;structure=">>>>>.>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.";
+Pm6	tRNAscan-SE	tRNA	8201425	8201496	72.5	+	.	ID=tRNA_0334;Type=Thr;Anti-codon=TGT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	8399574	8399644	35.41	+	.	ID=tRNA_0335;Type=Undet;Anti-codon=???;structure=">>>>.>>..>>>..........<<<.>>>.>.<.<<<.........>>>>>.......<<<<<<<.<<<<.";
+Pm6	tRNAscan-SE	tRNA	8404926	8405012	53.41	+	.	ID=tRNA_0336;Type=Ser;Anti-codon=TGA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<..>>>>......<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	8417879	8417952	49.74	+	.	ID=tRNA_0337;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	1616643	1616714	69.46	-	.	ID=tRNA_0338;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	1454385	1454458	76.02	-	.	ID=tRNA_0339;Type=Thr;Anti-codon=AGT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	14555539	14555611	77.7	+	.	ID=tRNA_0340;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	14983604	14983675	72.6	+	.	ID=tRNA_0341;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	25042716	25042787	81.19	+	.	ID=tRNA_0342;Type=Thr;Anti-codon=TGT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	37583046	37583117	71.75	+	.	ID=tRNA_0343;Type=Pro;Anti-codon=AGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	3510473	3510546	54.91	+	.	ID=tRNA_0344;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	3510683	3510756	64.59	+	.	ID=tRNA_0345;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	1307276	1307348	86.92	+	.	ID=tRNA_0346;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	1640550	1640622	79.41	+	.	ID=tRNA_0347;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	89726	89797	82.42	-	.	ID=tRNA_0348;Type=Thr;Anti-codon=CGT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	75656	75729	76.22	+	.	ID=tRNA_0349;Type=Ile;Anti-codon=AAT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	137602	137674	77.43	+	.	ID=tRNA_0350;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm6	tRNAscan-SE	tRNA	621997	622067	68.5	-	.	ID=tRNA_0351;Type=Gly;Anti-codon=CCC;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	486551	486623	72.81	-	.	ID=tRNA_0352;Type=Arg;Anti-codon=ACG;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	402795	402875	69.68	-	.	ID=tRNA_0353;Type=Leu;Anti-codon=AAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	181189	181270	80.82	+	.	ID=tRNA_0354;Type=Ser;Anti-codon=TGA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	365771	365842	71.75	+	.	ID=tRNA_0355;Type=Pro;Anti-codon=AGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	374453	374524	71.75	+	.	ID=tRNA_0356;Type=Pro;Anti-codon=AGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	518016	518088	68.12	+	.	ID=tRNA_0357;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	603349	603420	69.46	+	.	ID=tRNA_0358;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	16607158	16607228	51.44	-	.	ID=tRNA_0359;Type=Cys;Anti-codon=GCA;structure=".>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>.>.......<.<<<<<<<<<..";
+Pm5	tRNAscan-SE	tRNA	9238881	9238954	49.62	+	.	ID=tRNA_0364;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	8731511	8731593	67.65	+	.	ID=tRNA_0365;Type=Leu;Anti-codon=TAA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	9229804	9229875	63.31	+	.	ID=tRNA_0366;Type=His;Anti-codon=GTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	9314692	9314782	76.02	-	.	ID=tRNA_0367;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>>>........<<<<.>>>>>.........................<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	8625324	8625404	69.68	-	.	ID=tRNA_0368;Type=Leu;Anti-codon=AAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	13716711	13716783	87.57	-	.	ID=tRNA_0369;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	34987923	34987994	72.08	+	.	ID=tRNA_0370;Type=Pro;Anti-codon=AGG;structure=">>>>>>>..>>>>.......<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	34991398	34991469	72.08	+	.	ID=tRNA_0371;Type=Pro;Anti-codon=AGG;structure=">>>>>>>..>>>>.......<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	9750975	9751035	25.05	+	.	ID=tRNA_0372;Type=Pseudo;Anti-codon=AAT;structure=".>>>.>>..>..<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<..";
+Pm6	tRNAscan-SE	tRNA	9868264	9868337	81.49	+	.	ID=tRNA_0373;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	4108451	4108523	84.38	+	.	ID=tRNA_0374;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	16866965	16867045	68.57	-	.	ID=tRNA_0375;Type=Leu;Anti-codon=CAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	25407329	25407399	71.56	-	.	ID=tRNA_0376;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	25407176	25407246	71.56	-	.	ID=tRNA_0377;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	25360437	25360509	72.95	-	.	ID=tRNA_0378;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm1	tRNAscan-SE	tRNA	25360272	25360344	72.95	-	.	ID=tRNA_0379;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm1	tRNAscan-SE	tRNA	25930951	25931022	68.81	+	.	ID=tRNA_0380;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	5558681	5558753	84.38	+	.	ID=tRNA_0381;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	3625832	3625903	62.38	+	.	ID=tRNA_0382;Type=His;Anti-codon=GTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	3739222	3739294	77.31	+	.	ID=tRNA_0383;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	3748027	3748099	79.4	+	.	ID=tRNA_0384;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	3750843	3750914	72.67	-	.	ID=tRNA_0385;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	3750702	3750773	72.6	-	.	ID=tRNA_0386;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	3720327	3720400	85.4	-	.	ID=tRNA_0387;Type=Ile;Anti-codon=TAT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	8137864	8137935	73.14	+	.	ID=tRNA_0388;Type=Gly;Anti-codon=TCC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	10252519	10252591	71.03	-	.	ID=tRNA_0389;Type=Thr;Anti-codon=TGT;structure=">>>.>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<.";
+Pm4	tRNAscan-SE	tRNA	10254506	10254578	63.33	+	.	ID=tRNA_0390;Type=Phe;Anti-codon=GAA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	10258541	10258613	55.75	+	.	ID=tRNA_0391;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	16531787	16531859	36.96	+	.	ID=tRNA_0392;Type=Pseudo;Anti-codon=CTT;structure="...>>>>...>>>........<<<..>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<....";
+Pm5	tRNAscan-SE	tRNA	16588835	16588907	62.6	+	.	ID=tRNA_0393;Type=Lys;Anti-codon=TTT;structure=">>>>>>...>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<.<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	16614140	16614213	85.42	+	.	ID=tRNA_0394;Type=Val;Anti-codon=CAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	12689761	12689834	85.42	-	.	ID=tRNA_0395;Type=Val;Anti-codon=CAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	129510	129581	68.81	+	.	ID=tRNA_0397;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	182520	182591	73.14	-	.	ID=tRNA_0398;Type=Gly;Anti-codon=TCC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	174157	174228	73.14	-	.	ID=tRNA_0399;Type=Gly;Anti-codon=TCC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	167474	167545	74.33	-	.	ID=tRNA_0400;Type=Gly;Anti-codon=TCC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	14292643	14292714	76.45	-	.	ID=tRNA_0403;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	10399105	10399176	64.8	+	.	ID=tRNA_0404;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	10401258	10401329	64.8	+	.	ID=tRNA_0405;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	20423318	20423389	78.18	+	.	ID=tRNA_0406;Type=Cys;Anti-codon=GCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	20491023	20491095	88.06	+	.	ID=tRNA_0407;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	20500763	20500834	62.63	+	.	ID=tRNA_0408;Type=His;Anti-codon=GTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	20501717	20501789	80.74	+	.	ID=tRNA_0409;Type=Arg;Anti-codon=CCG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	20610924	20610996	81.72	+	.	ID=tRNA_0410;Type=Lys;Anti-codon=CTT;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm5	tRNAscan-SE	tRNA	19923479	19923552	85.69	-	.	ID=tRNA_0416;Type=Val;Anti-codon=CAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	15172369	15172440	84.43	+	.	ID=tRNA_0417;Type=Thr;Anti-codon=CGT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	2694090	2694171	77.62	+	.	ID=tRNA_0418;Type=Ser;Anti-codon=GCT;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	16618670	16618743	73.28	+	.	ID=tRNA_0419;Type=Thr;Anti-codon=AGT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	16633890	16633963	75.17	+	.	ID=tRNA_0420;Type=Thr;Anti-codon=AGT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	16846842	16846915	59.28	-	.	ID=tRNA_0421;Type=Thr;Anti-codon=AGT;structure=">>>>>>....>>>.........<<<..>>>>>.......<<<<<.....>>>>>.......<<<<<.<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	16633733	16633806	63.77	-	.	ID=tRNA_0422;Type=Thr;Anti-codon=AGT;structure=">>>.>>>..>>>>.........<<<<.>.>>>.......<<<.<.....>>>>>.......<<<<<<<<.<<<.";
+Pm1	tRNAscan-SE	tRNA	7972242	7972314	70.17	-	.	ID=tRNA_0423;Type=Arg;Anti-codon=TCT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	7985424	7985505	79.53	+	.	ID=tRNA_0424;Type=Ser;Anti-codon=GCT;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	12378541	12378612	72.6	+	.	ID=tRNA_0425;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	12438606	12438690	31.07	+	.	ID=tRNA_0426;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>...........<<<.>>>>>..........<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	7952517	7952601	61.15	-	.	ID=tRNA_0427;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.........<<<<.>>>>....................<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	15026598	15026678	68.57	-	.	ID=tRNA_0428;Type=Leu;Anti-codon=CAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	14898527	14898600	76.22	-	.	ID=tRNA_0429;Type=Ile;Anti-codon=AAT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	11434255	11434327	78.14	+	.	ID=tRNA_0438;Type=Val;Anti-codon=TAC;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	21650007	21650079	72.81	+	.	ID=tRNA_0439;Type=Arg;Anti-codon=ACG;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	22339379	22339450	77.63	+	.	ID=tRNA_0440;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	22359632	22359715	73.73	-	.	ID=tRNA_0441;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	22335849	22335921	68.68	-	.	ID=tRNA_0442;Type=Arg;Anti-codon=TCT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	21511611	21511692	81.28	-	.	ID=tRNA_0443;Type=Ser;Anti-codon=CGA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	20996708	20996780	74.13	-	.	ID=tRNA_0444;Type=Arg;Anti-codon=CCT;structure=">>>>>.>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.";
+Pm5	tRNAscan-SE	tRNA	20866549	20866620	69.46	-	.	ID=tRNA_0445;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	9276475	9276547	77.43	-	.	ID=tRNA_0448;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.";
+Pm1	tRNAscan-SE	tRNA	6218276	6218347	71.75	+	.	ID=tRNA_0449;Type=Pro;Anti-codon=AGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	9513835	9513906	69.46	+	.	ID=tRNA_0450;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm5	tRNAscan-SE	tRNA	323535	323616	79.53	-	.	ID=tRNA_0451;Type=Ser;Anti-codon=GCT;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	4537925	4537998	82.11	+	.	ID=tRNA_0452;Type=Arg;Anti-codon=TCG;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	4776707	4776778	68.81	+	.	ID=tRNA_0453;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	4802063	4802136	74.28	+	.	ID=tRNA_0454;Type=Thr;Anti-codon=AGT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	30870145	30870216	73.73	-	.	ID=tRNA_0455;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	589846	589918	81.31	+	.	ID=tRNA_0456;Type=Val;Anti-codon=TAC;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	15131250	15131330	69.68	-	.	ID=tRNA_0457;Type=Leu;Anti-codon=AAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	14156360	14156440	68.09	+	.	ID=tRNA_0458;Type=Leu;Anti-codon=AAG;structure=">>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	7294185	7294259	32.53	+	.	ID=tRNA_0459;Type=Lys;Anti-codon=TTT;structure=">>>.>.>.>>>>........<<<<.>>>.>.......<.<<<.....>>.>>.......<<.<<...<.<.<<<.";
+Pm6	tRNAscan-SE	tRNA	7314649	7314721	87.61	+	.	ID=tRNA_0460;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	18246777	18246848	25.46	+	.	ID=tRNA_0461;Type=Pseudo;Anti-codon=GTA;structure=".>>>>.>..>>>>.......<<<<..>>>.>.......<.<<<.....>>.>........<.<<<.<<<<..";
+Pm1	tRNAscan-SE	tRNA	18290050	18290123	79.65	+	.	ID=tRNA_0462;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	5469108	5469179	66.04	-	.	ID=tRNA_0463;Type=Asn;Anti-codon=GTT;structure=">>>>>>>...>>>.......<<<..>>>.>.......<.<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm4	tRNAscan-SE	tRNA	5348021	5348084	26.24	+	.	ID=tRNA_0464;Type=Pseudo;Anti-codon=GTC;structure=".>>.>.>..>>....<<.>>>>>.......<<<<<....>>>>>.......<<<<<<.<.<<..";
+Pm4	tRNAscan-SE	tRNA	5352878	5352949	67.62	+	.	ID=tRNA_0465;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	2107338	2107410	76.93	+	.	ID=tRNA_0468;Type=Val;Anti-codon=TAC;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	23291578	23291648	31.56	-	.	ID=tRNA_0469;Type=Glu;Anti-codon=TTC;structure=">.>>>>>..>>>>........<<<<..>>>>.......<<<<........>>......<<...<<<<<.<.";
+Pm3	tRNAscan-SE	tRNA	23291095	23291166	72.6	-	.	ID=tRNA_0470;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm6	tRNAscan-SE	tRNA	2225083	2225155	68.12	+	.	ID=tRNA_0471;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	15593114	15593187	76.22	-	.	ID=tRNA_0472;Type=Ile;Anti-codon=AAT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	29627449	29627537	77.18	-	.	ID=tRNA_0473;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......................<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	11028776	11028848	77.7	+	.	ID=tRNA_0474;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	10972977	10973048	69.46	-	.	ID=tRNA_0475;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	10876100	10876171	73.73	-	.	ID=tRNA_0476;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	6637926	6637998	84.38	-	.	ID=tRNA_0477;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	16070124	16070197	45.58	+	.	ID=tRNA_0480;Type=Val;Anti-codon=TAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	16112494	16112565	77.63	-	.	ID=tRNA_0481;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	15789372	15789445	63.88	+	.	ID=tRNA_0482;Type=Met;Anti-codon=CAT;structure=".>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<..";
+Pm3	tRNAscan-SE	tRNA	15789603	15789673	61.55	-	.	ID=tRNA_0483;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>...........<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	15790318	15790391	63.88	+	.	ID=tRNA_0484;Type=Met;Anti-codon=CAT;structure=".>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<..";
+Pm3	tRNAscan-SE	tRNA	15791406	15791498	41.98	+	.	ID=tRNA_0485;Type=Ser;Anti-codon=TGA;structure=">>>>>>>..>>.>.........<.<<.>>>>>.......<<<<<...>>>>>........<<<<<...>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	15795944	15796016	47.26	+	.	ID=tRNA_0486;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	15796076	15796159	50.3	+	.	ID=tRNA_0487;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>...>>>.........<<<..>>>>>.......<<<<<..>>>.....<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	15796596	15796669	57.82	+	.	ID=tRNA_0488;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	15800192	15800262	58.87	-	.	ID=tRNA_0489;Type=Cys;Anti-codon=GCA;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>.>.......<.<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	15795426	15795497	59.05	-	.	ID=tRNA_0490;Type=Thr;Anti-codon=GGT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	15790549	15790619	61.55	-	.	ID=tRNA_0491;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>...........<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	10622309	10622382	85.4	+	.	ID=tRNA_0492;Type=Ile;Anti-codon=TAT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	5862684	5862768	61.15	-	.	ID=tRNA_0493;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.........<<<<.>>>>....................<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	24342774	24342844	68.5	-	.	ID=tRNA_0494;Type=Gly;Anti-codon=CCC;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	10275779	10275850	70.28	-	.	ID=tRNA_0497;Type=Gln;Anti-codon=CTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	21820807	21820888	81.28	+	.	ID=tRNA_0499;Type=Ser;Anti-codon=CGA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	1631611	1631681	71.56	+	.	ID=tRNA_0500;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm1	tRNAscan-SE	tRNA	1502919	1502991	71.26	-	.	ID=tRNA_0501;Type=Arg;Anti-codon=CCT;structure=">>>>>.>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.";
+Pm7	tRNAscan-SE	tRNA	9263135	9263207	68.12	+	.	ID=tRNA_0502;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	9291530	9291612	64.8	-	.	ID=tRNA_0503;Type=Leu;Anti-codon=TAA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	9290077	9290159	64.8	-	.	ID=tRNA_0504;Type=Leu;Anti-codon=TAA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	9262950	9263022	68.12	-	.	ID=tRNA_0505;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	9262773	9262845	68.12	-	.	ID=tRNA_0506;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	9176555	9176626	81.44	-	.	ID=tRNA_0507;Type=Thr;Anti-codon=TGT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	2646834	2646907	84.37	+	.	ID=tRNA_0508;Type=Ile;Anti-codon=TAT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	2716122	2716194	68.12	-	.	ID=tRNA_0509;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	2628799	2628869	71.56	-	.	ID=tRNA_0510;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm8	tRNAscan-SE	tRNA	16472984	16473074	77.58	+	.	ID=tRNA_0517;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>>>........<<<<.>>>>>.........................<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	8437931	8438002	69.46	+	.	ID=tRNA_0518;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	8497489	8497560	78.18	+	.	ID=tRNA_0519;Type=Cys;Anti-codon=GCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	4400672	4400744	77.31	-	.	ID=tRNA_0520;Type=Glu;Anti-codon=CTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm7	tRNAscan-SE	tRNA	4258592	4258664	84.38	-	.	ID=tRNA_0521;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	4712431	4712503	36.03	+	.	ID=tRNA_0522;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	4719763	4719835	27.97	+	.	ID=tRNA_0523;Type=Pseudo;Anti-codon=TTT;structure=">>>>>>>..>>>>.........<<<<..>>>>.......<<<<.....>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	5019711	5019792	77.62	+	.	ID=tRNA_0524;Type=Ser;Anti-codon=GCT;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+Pm2	tRNAscan-SE	tRNA	8669710	8669781	75.73	+	.	ID=tRNA_0525;Type=Gly;Anti-codon=TCC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.";
+Pm3	tRNAscan-SE	tRNA	18214471	18214547	21.24	+	.	ID=tRNA_0526;Type=Pseudo;Anti-codon=TGC;structure=".>>>>>...>.>>.........<<.<.>>>>.........<<<<.....>>>>>.......<<<...<<.<<<<<..";
+Pm3	tRNAscan-SE	tRNA	18204223	18204304	79.53	-	.	ID=tRNA_0527;Type=Ser;Anti-codon=GCT;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.";
+C4417893	cmsearch	miRNA	8	98	21.14	-	.	ID=miRNA_002038;Target=RF00816 1 97;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-245;
+C4418267	cmsearch	miRNA	12	89	42.34	+	.	ID=miRNA_002040;Target=RF00650 1 87;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-153;
+C4481789	cmsearch	miRNA	2	71	32.2	-	.	ID=miRNA_002905;Target=RF00650 1 87;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-153;
+C4524547	cmsearch	miRNA	9	105	29.82	+	.	ID=miRNA_003366;Target=RF00816 1 97;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-245;
+C4577105	cmsearch	miRNA	7	103	22.34	+	.	ID=miRNA_006400;Target=RF00816 1 97;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-245;
+C4628823	cmsearch	miRNA	31	125	51.28	-	.	ID=miRNA_007225;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+C4631585	cmsearch	miRNA	59	123	21.45	-	.	ID=miRNA_007287;Target=RF00918 1 81;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-872;
+C4656623	cmsearch	miRNA	47	127	23.25	+	.	ID=miRNA_007726;Target=RF00650 1 87;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-153;
+C4748725	cmsearch	miRNA	92	196	46.48	+	.	ID=miRNA_010298;Target=RF00445 1 117;Threshold=32.00;type="Gene; miRNA;";Annotation=mir-399 microRNA precursor family;
+C4864555	cmsearch	miRNA	269	377	23.84	-	.	ID=miRNA_012045;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+C4932545	cmsearch	miRNA	356	480	25.99	+	.	ID=miRNA_014496;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+scaffold1059	cmsearch	miRNA	774	878	35.65	+	.	ID=miRNA_018616;Target=RF00445 1 117;Threshold=32.00;type="Gene; miRNA;";Annotation=mir-399 microRNA precursor family;
+scaffold106	cmsearch	miRNA	13233	13399	54.04	-	.	ID=miRNA_000888;Target=RF01043 1 170;Threshold=53.00;type="Gene; miRNA;";Annotation=microRNA MIR1023;
+scaffold1104	cmsearch	miRNA	6129	6244	51.42	+	.	ID=miRNA_018741;Target=RF00445 1 117;Threshold=32.00;type="Gene; miRNA;";Annotation=mir-399 microRNA precursor family;
+scaffold1209	cmsearch	miRNA	90	211	20.4	-	.	ID=miRNA_018950;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+scaffold1504	cmsearch	miRNA	1868	1939	28.08	+	.	ID=miRNA_019485;Target=RF00650 1 87;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-153;
+scaffold162	cmsearch	miRNA	716297	716421	47.85	-	.	ID=miRNA_004792;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+scaffold205	cmsearch	miRNA	349387	349511	20.87	+	.	ID=miRNA_005455;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+scaffold205	cmsearch	miRNA	350122	350245	42.19	+	.	ID=miRNA_005456;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+scaffold205	cmsearch	miRNA	1787903	1788121	50.39	-	.	ID=miRNA_005440;Target=RF00638 1 196;Threshold=40.00;type="Gene; miRNA;";Annotation=microRNA MIR159;
+scaffold2171	cmsearch	miRNA	262	356	51.28	-	.	ID=miRNA_000241;Target=RF00645 1 111;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR169_2;
+scaffold22	cmsearch	miRNA	9773	9870	75.91	+	.	ID=miRNA_003693;Target=RF00689 1 122;Threshold=55.00;type="Gene; miRNA;";Annotation=microRNA MIR390;
+scaffold22	cmsearch	miRNA	168593	168772	53.14	+	.	ID=miRNA_003686;Target=RF00647 1 110;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR164;
+scaffold475	cmsearch	miRNA	320064	320166	24.66	-	.	ID=miRNA_015873;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+scaffold475	cmsearch	miRNA	807058	807145	86.82	+	.	ID=miRNA_015884;Target=RF00742 1 91;Threshold=75.00;type="Gene; miRNA;";Annotation=microRNA MIR162_2;
+scaffold54	cmsearch	miRNA	111551	111667	53.99	+	.	ID=miRNA_004148;Target=RF00647 1 110;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR164;
+scaffold552	cmsearch	miRNA	19044	19169	28.66	-	.	ID=miRNA_016558;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+scaffold552	cmsearch	miRNA	45954	46078	42.62	-	.	ID=miRNA_016572;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+scaffold56	cmsearch	miRNA	122125	122249	20.41	-	.	ID=miRNA_004167;Target=RF00721 1 125;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA MIR475;
+scaffold647	cmsearch	miRNA	54504	54589	29.56	+	.	ID=miRNA_017170;Target=RF00650 1 87;Threshold=20.00;type="Gene; miRNA;";Annotation=microRNA mir-153;
+scaffold764	cmsearch	miRNA	31701	31792	27.14	+	.	ID=miRNA_017776;Target=RF01037 1 94;Threshold=25.00;type="Gene; miRNA;";Annotation=microRNA mir-644;
+scaffold1464	blastn	rRNA	8857	8981	2.00E-44	+	.	ID=rRNA_5S_0001;Target=AJ307354 37 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+C4537721	blastn	rRNA	13	110	2.00E-28	+	.	ID=rRNA_5S_0002;Target=AJ307354 64 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+scaffold898	blastn	rRNA	84	246	1.00E-66	+	.	ID=rRNA_5.8S_0003;Target=AJ232900 269 431;Annotation="[Arabidopsis thaliana] 5.8S rRNA gene and internal transcribed spacers 1 and 2 (ITS1, ITS2) "
+scaffold1173	blastn	rRNA	7692	7820	2.00E-65	+	.	ID=rRNA_5.8S_0004;Target=AJ232900 269 397;Annotation="[Arabidopsis thaliana] 5.8S rRNA gene and internal transcribed spacers 1 and 2 (ITS1, ITS2) "
+scaffold1254	blastn	rRNA	12197	12306	5.00E-23	-	.	ID=rRNA_5.8S_0005;Target=AJ232900 283 392;Annotation="[Arabidopsis thaliana] 5.8S rRNA gene and internal transcribed spacers 1 and 2 (ITS1, ITS2) "
+scaffold1173	blastn	rRNA	5656	7478	0	+	.	ID=rRNA_18S_0006;Target=X16077 82 1901;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+scaffold1254	blastn	rRNA	12417	13374	0	-	.	ID=rRNA_18S_0007;Target=X16077 834 1789;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+scaffold1254	blastn	rRNA	13477	14091	0	-	.	ID=rRNA_18S_0008;Target=X16077 113 732;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+C4447127	blastn	rRNA	1	105	2.00E-43	-	.	ID=rRNA_18S_0009;Target=X16077 1758 1862;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+C4429685	blastn	rRNA	1	102	1.00E-41	-	.	ID=rRNA_18S_0010;Target=X16077 1163 1264;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+C4431597	blastn	rRNA	1	102	3.00E-39	-	.	ID=rRNA_18S_0011;Target=X16077 1271 1372;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+C4437767	blastn	rRNA	1	93	3.00E-36	-	.	ID=rRNA_18S_0012;Target=X16077 1589 1681;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+C4418195	blastn	rRNA	17	100	4.00E-26	+	.	ID=rRNA_18S_0013;Target=X16077 785 868;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+C4456759	blastn	rRNA	67	106	4.00E-14	+	.	ID=rRNA_18S_0014;Target=X16077 862 901;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+C4456759	blastn	rRNA	1	41	6.00E-10	+	.	ID=rRNA_18S_0015;Target=X16077 819 859;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+scaffold916	blastn	rRNA	41302	41343	9.00E-06	-	.	ID=rRNA_18S_0016;Target=X16077 1197 1238;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+scaffold1173	blastn	rRNA	8883	9069	3.00E-69	+	.	ID=rRNA_28S_0017;Target=AH001750 15 201;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+scaffold1173	blastn	rRNA	403	496	4.00E-35	+	.	ID=rRNA_28S_0018;Target=AH001750 503 596;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+scaffold1254	blastn	rRNA	11060	11205	2.00E-49	-	.	ID=rRNA_28S_0019;Target=AH001750 56 201;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+C4460099	blastn	rRNA	1	107	4.00E-20	+	.	ID=rRNA_28S_0020;Target=AH001750 221 327;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+C4416069	blastn	rRNA	1	97	4.00E-20	-	.	ID=rRNA_28S_0021;Target=AH001750 229 325;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+C4427631	blastn	rRNA	1	80	4.00E-17	-	.	ID=rRNA_28S_0022;Target=AH001750 5 84;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+C4430327	blastn	rRNA	1	48	2.00E-12	-	.	ID=rRNA_28S_0023;Target=AH001750 503 550;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+scaffold82	blastn	rRNA	29730	29782	4.00E-08	+	.	ID=rRNA_18S_0049;Target=X16077 668 721;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+scaffold205	blastn	rRNA	1163502	1163621	1.00E-17	-	.	ID=rRNA_5S_0077;Target=AJ307354 42 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+scaffold490	blastn	rRNA	9299	9461	7.00E-69	-	.	ID=rRNA_5.8S_0097;Target=AJ232900 269 431;Annotation="[Arabidopsis thaliana] 5.8S rRNA gene and internal transcribed spacers 1 and 2 (ITS1, ITS2) "
+scaffold490	blastn	rRNA	24691	24853	4.00E-64	-	.	ID=rRNA_5.8S_0098;Target=AJ232900 269 431;Annotation="[Arabidopsis thaliana] 5.8S rRNA gene and internal transcribed spacers 1 and 2 (ITS1, ITS2) "
+scaffold490	blastn	rRNA	25785	26737	0	-	.	ID=rRNA_18S_0100;Target=X16077 82 1032;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+scaffold490	blastn	rRNA	25062	25791	0	-	.	ID=rRNA_18S_0101;Target=X16077 1173 1901;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+scaffold490	blastn	rRNA	9669	10392	0	-	.	ID=rRNA_18S_0102;Target=X16077 1179 1901;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+scaffold490	blastn	rRNA	11007	11224	2.00E-68	-	.	ID=rRNA_18S_0103;Target=X16077 300 515;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+scaffold490	blastn	rRNA	22583	22780	2.00E-43	-	.	ID=rRNA_28S_0109;Target=AH001750 206 399;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+scaffold490	blastn	rRNA	22387	22469	7.00E-19	-	.	ID=rRNA_28S_0110;Target=AH001750 400 481;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+scaffold634	blastn	rRNA	16349	16438	9.00E-22	+	.	ID=rRNA_5S_0111;Target=AJ307354 74 161;Annotation="[Arabidopsis thaliana] 5S rRNA gene and NTS, clone 5S-at8 "
+scaffold581	blastn	rRNA	51291	51703	0	-	.	ID=rRNA_18S_0117;Target=X16077 368 781;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+scaffold590	blastn	rRNA	18160	18204	6.00E-10	+	.	ID=rRNA_18S_0119;Target=X16077 1818 1862;Annotation="[Arabidopsis thaliana] 18S rRNA gene "
+scaffold581	blastn	rRNA	51985	52119	1.00E-35	-	.	ID=rRNA_28S_0121;Target=AH001750 206 340;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+scaffold581	blastn	rRNA	52779	52851	1.00E-29	-	.	ID=rRNA_28S_0122;Target=AH001750 129 201;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+scaffold581	blastn	rRNA	50091	50161	2.00E-28	-	.	ID=rRNA_28S_0123;Target=AH001750 131 201;Annotation="[Oryza sativa] 28S ribosomal RNA (28S rRNA), ca. bp 738 to 938 in mature rRNA "
+C4933145	cmsearch	snRNA	127	247	65.12	-	.	ID=snRNA_003940;Target=RF00350 1 109;Threshold=55.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z152/R70/R12/;
+C4933145	cmsearch	snRNA	332	419	77.95	-	.	ID=snRNA_003943;Target=RF00349 1 90;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R11/Z151;
+C4933145	cmsearch	snRNA	591	688	66.12	-	.	ID=snRNA_003947;Target=RF00333 1 100;Threshold=25.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z157/R69/R10;
+C4934971	cmsearch	snRNA	323	395	60.73	+	.	ID=snRNA_003970;Target=RF00339 1 72;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR60;
+C4934971	cmsearch	snRNA	657	726	58.35	+	.	ID=snRNA_003972;Target=RF00339 1 72;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA snoR60;
+scaffold103	cmsearch	snRNA	387009	387109	72.65	+	.	ID=snRNA_001099;Target=RF00332 1 90;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z266;
+scaffold103	cmsearch	snRNA	387810	387910	67.63	+	.	ID=snRNA_001100;Target=RF00332 1 90;Threshold=30.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z266;
+scaffold103	cmsearch	snRNA	1037076	1037183	82.44	-	.	ID=snRNA_001091;Target=RF00304 1 108;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA Z279/snoR105/snoR108;
+scaffold1046	cmsearch	snRNA	92	198	54.03	-	.	ID=snRNA_003362;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold1087	cmsearch	snRNA	2298	2404	69.11	-	.	ID=snRNA_003388;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold1087	cmsearch	snRNA	7216	7322	69.11	-	.	ID=snRNA_003390;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold1113	cmsearch	snRNA	161	276	83.38	+	.	ID=snRNA_003407;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+scaffold1113	cmsearch	snRNA	591	710	83.18	+	.	ID=snRNA_003408;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+scaffold1145	cmsearch	snRNA	15243	15344	102.27	-	.	ID=snRNA_003423;Target=RF00026 1 106;Threshold=59.32;type="Gene; snRNA; splicing;";Annotation=U6 spliceosomal RNA;
+scaffold1270	cmsearch	snRNA	5457	5565	36.05	-	.	ID=snRNA_003488;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold162	cmsearch	snRNA	678913	679019	45.69	-	.	ID=snRNA_001294;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold1847	cmsearch	snRNA	205	311	54.55	-	.	ID=snRNA_004450;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold188	cmsearch	snRNA	29989	30095	49.29	+	.	ID=snRNA_001354;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold188	cmsearch	snRNA	57977	58102	67.21	+	.	ID=snRNA_001355;Target=RF00016 1 116;Threshold=20.20;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD14;
+scaffold188	cmsearch	snRNA	58484	58605	91.93	+	.	ID=snRNA_001356;Target=RF00016 1 116;Threshold=20.20;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD14;
+scaffold188	cmsearch	snRNA	58800	58923	75.09	+	.	ID=snRNA_001357;Target=RF00016 1 116;Threshold=20.20;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA SNORD14;
+scaffold1920	cmsearch	snRNA	304	410	53.69	+	.	ID=snRNA_004477;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold272	cmsearch	snRNA	621248	621460	126.52	+	.	ID=snRNA_000173;Target=RF00012 1 211;Threshold=35.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA U3;
+scaffold413	cmsearch	snRNA	65942	66059	72.96	+	.	ID=snRNA_000423;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+scaffold413	cmsearch	snRNA	67825	67942	80.85	+	.	ID=snRNA_000424;Target=RF00020 1 117;Threshold=60.00;type="Gene; snRNA; splicing;";Annotation=U5 spliceosomal RNA;
+scaffold511	cmsearch	snRNA	40789	40895	47.3	-	.	ID=snRNA_001755;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold54	cmsearch	snRNA	182091	182199	39.65	+	.	ID=snRNA_001497;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold56	cmsearch	snRNA	574117	574195	53.86	-	.	ID=snRNA_001501;Target=RF00203 1 80;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R160;
+scaffold56	cmsearch	snRNA	574234	574315	48.2	-	.	ID=snRNA_001505;Target=RF00203 1 80;Threshold=40.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Small nucleolar RNA R160;
+scaffold581	cmsearch	snRNA	221	327	69.11	+	.	ID=snRNA_001849;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold696	cmsearch	snRNA	44197	44303	45.42	+	.	ID=snRNA_002005;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold75	cmsearch	snRNA	16593	16699	52.81	+	.	ID=snRNA_001535;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+scaffold997	cmsearch	snRNA	13671	13777	69.11	+	.	ID=snRNA_003691;Target=RF00097 1 107;Threshold=33.00;type="Gene; snRNA; snoRNA; CD-box;";Annotation=Plant small nucleolar RNA R71;
+C4440871	tRNAscan-SE	tRNA	1	72	65.78	+	.	ID=tRNA_0001;Type=Lys;Anti-codon=TTT;structure=">>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<.<<."; 
+C4695919	tRNAscan-SE	tRNA	23	105	54.02	+	.	ID=tRNA_0002;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>.............<<.>>>>>.......<<<<<..>.>....<.<..>>>>>.......<<<<<<<<<<<<."; 
+C4795609	tRNAscan-SE	tRNA	46	117	59.63	-	.	ID=tRNA_0003;Type=Gly;Anti-codon=GCC;structure=">>>>>>...>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<.<<<<<<."; 
+C4800347	tRNAscan-SE	tRNA	187	260	64.62	-	.	ID=tRNA_0004;Type=Phe;Anti-codon=GAA;structure=">>>.>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<."; 
+C4885565	tRNAscan-SE	tRNA	135	207	63.33	+	.	ID=tRNA_0005;Type=Phe;Anti-codon=GAA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1010	tRNAscan-SE	tRNA	6145	6215	71.56	-	.	ID=tRNA_0014;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1019	tRNAscan-SE	tRNA	301	373	63.33	+	.	ID=tRNA_0015;Type=Phe;Anti-codon=GAA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1019	tRNAscan-SE	tRNA	4336	4408	55.75	+	.	ID=tRNA_0016;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold103	tRNAscan-SE	tRNA	397738	397811	82.78	+	.	ID=tRNA_0017;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold103	tRNAscan-SE	tRNA	409158	409237	68.72	+	.	ID=tRNA_0018;Type=Leu;Anti-codon=TAG;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>....<<..>>>>>.......<<<<<<<<<<<<."; 
+scaffold103	tRNAscan-SE	tRNA	512653	512724	74.11	+	.	ID=tRNA_0019;Type=Pro;Anti-codon=CGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1113	tRNAscan-SE	tRNA	11283	11356	75.67	+	.	ID=tRNA_0029;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1113	tRNAscan-SE	tRNA	12836	12909	78.53	+	.	ID=tRNA_0030;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1113	tRNAscan-SE	tRNA	13013	13086	76.88	+	.	ID=tRNA_0031;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1113	tRNAscan-SE	tRNA	13189	13262	76.88	+	.	ID=tRNA_0032;Type=Val;Anti-codon=AAC;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1218	tRNAscan-SE	tRNA	22114	22187	23.22	+	.	ID=tRNA_0041;Type=Pseudo;Anti-codon=TGG;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1218	tRNAscan-SE	tRNA	22321	22394	64.59	+	.	ID=tRNA_0042;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold129	tRNAscan-SE	tRNA	28751	28824	82.11	+	.	ID=tRNA_0051;Type=Arg;Anti-codon=TCG;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1366	tRNAscan-SE	tRNA	18105	18177	20.28	-	.	ID=tRNA_0074;Type=Pseudo;Anti-codon=TGC;structure=".>>>>>...>.>>.......<<.<.>.>.>.........<.<<.......>>>.......<<<...<<<<<.."; 
+scaffold1456	tRNAscan-SE	tRNA	1426	1497	62.51	+	.	ID=tRNA_0090;Type=Arg;Anti-codon=TCT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1456	tRNAscan-SE	tRNA	2862	2949	56.93	+	.	ID=tRNA_0091;Type=Ser;Anti-codon=GCT;structure=">>>>>>>..>>>...........<<<..>>>>.......<<<<...>>>>>>...<<<<<<..>>>>>.......<<<<<<<<<<<<."; 
+scaffold1456	tRNAscan-SE	tRNA	3999	4070	55.28	+	.	ID=tRNA_0092;Type=Gln;Anti-codon=TTG;structure=">>>>>>>..>>>.........<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<."; 
+scaffold1456	tRNAscan-SE	tRNA	1205	1276	62.51	-	.	ID=tRNA_0093;Type=Arg;Anti-codon=TCT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold162	tRNAscan-SE	tRNA	781150	781239	61.85	-	.	ID=tRNA_0117;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.........<<<<.>>>>.........................<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold162	tRNAscan-SE	tRNA	777365	777449	33.94	-	.	ID=tRNA_0118;Type=Met;Anti-codon=CAT;structure=">.>>>..>>>>.........<<<<.>>>>.........................<<<<.....>>>>>.......<<<<<<<<<."; 
+scaffold162	tRNAscan-SE	tRNA	771345	771430	25.84	-	.	ID=tRNA_0119;Type=Met;Anti-codon=CAT;structure=">>.>....>.>>.........<<.<.>>>>.........................<<<<.....>>>>>.......<<<<<<.<<."; 
+scaffold162	tRNAscan-SE	tRNA	623301	623371	20.79	-	.	ID=tRNA_0120;Type=Pseudo;Anti-codon=GCA;structure=">>.>>.>..>>>.........<<<..>>>.........<<<.....>>.>>.......<<.<<<.<<.<<."; 
+scaffold166	tRNAscan-SE	tRNA	38880	38954	47.3	+	.	ID=tRNA_0122;Type=Asn;Anti-codon=ATT;structure=">>>>>>>..>>>>.......<<<<.>>>>>..........<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold166	tRNAscan-SE	tRNA	28677	28749	71.57	-	.	ID=tRNA_0123;Type=Lys;Anti-codon=TTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold1861	tRNAscan-SE	tRNA	2694	2767	45.72	+	.	ID=tRNA_0150;Type=Met;Anti-codon=CAT;structure=".>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<.."; 
+scaffold205	tRNAscan-SE	tRNA	2037830	2037911	84.73	-	.	ID=tRNA_0166;Type=Ser;Anti-codon=AGA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<."; 
+scaffold205	tRNAscan-SE	tRNA	1785874	1785956	64.8	-	.	ID=tRNA_0167;Type=Leu;Anti-codon=TAA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>....<<<<..>>>>>.......<<<<<<<<<<<<."; 
+scaffold22	tRNAscan-SE	tRNA	97730	97801	74.09	+	.	ID=tRNA_0175;Type=Gln;Anti-codon=TTG;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold2285	tRNAscan-SE	tRNA	5874	5943	58.11	-	.	ID=tRNA_0178;Type=Gly;Anti-codon=GCC;structure=">>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>.......<<.<<<<<<<<<."; 
+scaffold2394	tRNAscan-SE	tRNA	1493	1566	83.35	+	.	ID=tRNA_0195;Type=Ile;Anti-codon=GAT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold2394	tRNAscan-SE	tRNA	1598	1670	72.95	+	.	ID=tRNA_0196;Type=Ala;Anti-codon=TGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold2431	tRNAscan-SE	tRNA	7611	7692	84.12	+	.	ID=tRNA_0200;Type=Ser;Anti-codon=AGA;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<."; 
+scaffold2434	tRNAscan-SE	tRNA	664	734	68.5	+	.	ID=tRNA_0201;Type=Gly;Anti-codon=CCC;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold265	tRNAscan-SE	tRNA	393169	393241	68.12	+	.	ID=tRNA_0220;Type=Ala;Anti-codon=AGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold265	tRNAscan-SE	tRNA	649340	649410	68.5	+	.	ID=tRNA_0221;Type=Gly;Anti-codon=CCC;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold272	tRNAscan-SE	tRNA	688295	688367	84.38	+	.	ID=tRNA_0226;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold272	tRNAscan-SE	tRNA	688093	688165	84.38	-	.	ID=tRNA_0227;Type=Lys;Anti-codon=CTT;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold327	tRNAscan-SE	tRNA	179134	179205	73.14	-	.	ID=tRNA_0282;Type=Gly;Anti-codon=TCC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold327	tRNAscan-SE	tRNA	131933	132004	77.63	-	.	ID=tRNA_0283;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold410	tRNAscan-SE	tRNA	39421	39493	48.44	-	.	ID=tRNA_0325;Type=Lys;Anti-codon=CTT;structure="..>>>>>...>>>........<<<..>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<..."; 
+scaffold475	tRNAscan-SE	tRNA	6123	6194	71.75	+	.	ID=tRNA_0360;Type=Pro;Anti-codon=AGG;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold475	tRNAscan-SE	tRNA	575915	575987	65.78	+	.	ID=tRNA_0361;Type=Ala;Anti-codon=CGC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold475	tRNAscan-SE	tRNA	683533	683606	46	-	.	ID=tRNA_0362;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<...>.>.........<.<......>>>>>.......<<<<<<<.<<<<."; 
+scaffold475	tRNAscan-SE	tRNA	672390	672461	64.98	-	.	ID=tRNA_0363;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<.<<<<."; 
+scaffold527	tRNAscan-SE	tRNA	12583	12667	60.68	+	.	ID=tRNA_0396;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>>.........<<<<.>>>>....................<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold529	tRNAscan-SE	tRNA	22956	23028	71.03	+	.	ID=tRNA_0401;Type=Thr;Anti-codon=TGT;structure=">>>.>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<."; 
+scaffold529	tRNAscan-SE	tRNA	24312	24398	57.56	-	.	ID=tRNA_0402;Type=Ser;Anti-codon=GGA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<...>>>>....<<<<...>>>>>.......<<<<<<<<<<<<."; 
+scaffold56	tRNAscan-SE	tRNA	970596	970667	69.46	+	.	ID=tRNA_0411;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold56	tRNAscan-SE	tRNA	970763	970834	69.46	+	.	ID=tRNA_0412;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold56	tRNAscan-SE	tRNA	970930	971001	69.46	+	.	ID=tRNA_0413;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold56	tRNAscan-SE	tRNA	1121784	1121857	82.78	+	.	ID=tRNA_0414;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold56	tRNAscan-SE	tRNA	1123029	1123102	82.78	+	.	ID=tRNA_0415;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold597	tRNAscan-SE	tRNA	170289	170360	63.89	+	.	ID=tRNA_0430;Type=Glu;Anti-codon=TTC;structure=">>>>>>>..>>>>........<<<<.>>>.>.......<.<<<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold597	tRNAscan-SE	tRNA	180753	180823	41.08	+	.	ID=tRNA_0431;Type=Cys;Anti-codon=GCA;structure=">>>>>>>..>>>>.......<<<<.>.>>>.......<<<.<....>>>>>.......<<<<<<<<<<<<."; 
+scaffold597	tRNAscan-SE	tRNA	183964	184035	75.42	+	.	ID=tRNA_0432;Type=Asn;Anti-codon=GTT;structure=">>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold597	tRNAscan-SE	tRNA	184981	185063	54.02	+	.	ID=tRNA_0433;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>.............<<.>>>>>.......<<<<<..>.>....<.<..>>>>>.......<<<<<<<<<<<<."; 
+scaffold597	tRNAscan-SE	tRNA	185899	185981	54.02	+	.	ID=tRNA_0434;Type=Tyr;Anti-codon=GTA;structure=">>>>>>>..>>.............<<.>>>>>.......<<<<<..>.>....<.<..>>>>>.......<<<<<<<<<<<<."; 
+scaffold597	tRNAscan-SE	tRNA	176481	176553	49.1	-	.	ID=tRNA_0435;Type=Cys;Anti-codon=GCA;structure=">>>>.>>..>>>..........<<<..>>>>.......<<<<......>>>>>.......<<<<<<<.<<<<."; 
+scaffold597	tRNAscan-SE	tRNA	166739	166812	50.71	-	.	ID=tRNA_0436;Type=His;Anti-codon=GTG;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold597	tRNAscan-SE	tRNA	143501	143574	60.73	-	.	ID=tRNA_0437;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold630	tRNAscan-SE	tRNA	141524	141596	75.31	+	.	ID=tRNA_0446;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<."; 
+scaffold630	tRNAscan-SE	tRNA	147576	147648	75.31	+	.	ID=tRNA_0447;Type=Phe;Anti-codon=GAA;structure=">>>>.>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<."; 
+scaffold697	tRNAscan-SE	tRNA	8809	8882	54.91	-	.	ID=tRNA_0466;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold697	tRNAscan-SE	tRNA	8599	8672	64.59	-	.	ID=tRNA_0467;Type=Trp;Anti-codon=CCA;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold762	tRNAscan-SE	tRNA	3104	3190	57.56	+	.	ID=tRNA_0478;Type=Ser;Anti-codon=GGA;structure=">>>>>>>..>>>...........<<<.>>>>>.......<<<<<...>>>>....<<<<...>>>>>.......<<<<<<<<<<<<."; 
+scaffold762	tRNAscan-SE	tRNA	4474	4546	71.03	-	.	ID=tRNA_0479;Type=Thr;Anti-codon=TGT;structure=">>>.>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<."; 
+scaffold836	tRNAscan-SE	tRNA	16259	16339	52.25	-	.	ID=tRNA_0495;Type=Leu;Anti-codon=CAA;structure=">>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<."; 
+scaffold836	tRNAscan-SE	tRNA	8311	8384	62.47	-	.	ID=tRNA_0496;Type=Met;Anti-codon=CAT;structure=">>>>>>>..>>>..........<<<..>>>>.......<<<<.......>>>>>.......<<<<<<<<<<<<."; 
+scaffold854	tRNAscan-SE	tRNA	10700	10770	61.52	-	.	ID=tRNA_0498;Type=Gly;Anti-codon=CCC;structure=">>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>.>>.......<<.<<<<<<<<<."; 
+scaffold916	tRNAscan-SE	tRNA	55987	56074	38.42	+	.	ID=tRNA_0511;Type=Ser;Anti-codon=GCT;structure=">>>>>.>..>>>...........<<<.>>.>>...............<<.<<..>....<...>>>>>.......<<<<<<.<<<<<."; 
+scaffold916	tRNAscan-SE	tRNA	56430	56503	57.89	+	.	ID=tRNA_0512;Type=Phe;Anti-codon=GAA;structure=">>>.>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<.<<<."; 
+scaffold916	tRNAscan-SE	tRNA	56721	56795	47.98	+	.	ID=tRNA_0513;Type=Pro;Anti-codon=TGG;structure=">>>>>.>..>>>>..........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<."; 
+scaffold916	tRNAscan-SE	tRNA	59829	59902	64.62	+	.	ID=tRNA_0514;Type=Phe;Anti-codon=GAA;structure=">>>.>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<."; 
+scaffold916	tRNAscan-SE	tRNA	60121	60195	54.34	+	.	ID=tRNA_0515;Type=Pro;Anti-codon=TGG;structure=">>>>>>>..>>>>..........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
+scaffold916	tRNAscan-SE	tRNA	12178	12251	58.52	-	.	ID=tRNA_0516;Type=Asp;Anti-codon=GTC;structure=">>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<."; 
